@@ -23,7 +23,3 @@
 GitLab will be used to manage code versions and store documentation.
 
 **Implementation planning**
-
-**Testing approach**
-
-**Test planning**
