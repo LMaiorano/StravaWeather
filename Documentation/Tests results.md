@@ -1,4 +1,0 @@
-**Test results**
-
-**Test validation**
-
