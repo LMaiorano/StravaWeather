@@ -14,6 +14,6 @@
 **Resources**
 
 **Priorities**
-from requirements?
+* from requirements?
 
 **Results optimizations**
