@@ -9,3 +9,11 @@
 
 **Constraints**
 
+**Project approach**
+
+**Resources**
+
+**Priorities**
+from requirements?
+
+**Results optimizations**
