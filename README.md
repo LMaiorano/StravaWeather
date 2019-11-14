@@ -1,4 +1,5 @@
 # Project Overview
+<!--
 
 ## Coverage requirements to contribute
 [![coverage report](https://gitlab.ewi.tudelft.nl/ti3115tu-2019/group-20/badges/Development/coverage.svg)](https://gitlab.ewi.tudelft.nl/ti3115tu-2019/group-20/commits/Development)
@@ -7,8 +8,8 @@
 ## Build status
 [![build status](https:/ti3115tu-2019/group-20/badges/Development/gitlab.ewi.tudelft.nl/pipeline.svg)](https://gitlab.ewi.tudelft.nl/ti3115tu-2019/group-20/commits/Development)
 
-Teaching Assistant:
-* Noah Posner
+-->
+**Group Number:** 7
 
 Team member names:
 *   Luigi Maiorano
@@ -47,15 +48,5 @@ Each sprint is marked with a milestone, and issues are associated with this mile
 Issues are supplemented with checklists and labels
 
 # **Teamcontract** 
-
-**Group Number:** 7
-
-**Group Members:**
-
-*	Luigi Maiorano
-*	Inge Marieke Visser
-*	Julius Caron
-*	Pieter van Bentum
-*	Jasper Boogers
 
 See Documentation/Team Contract for more information
