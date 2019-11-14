@@ -9,7 +9,7 @@
 
 **Constraints**
 
-**Project approach**
+**Approach**
 
 **Resources**
 
@@ -17,3 +17,13 @@
 * from requirements?
 
 **Results optimizations**
+
+**Code base and documentation**
+
+GitLab will be used to manage code versions and store documentation.
+
+**Implementation planning**
+
+**Testing approach**
+
+**Test planning**
