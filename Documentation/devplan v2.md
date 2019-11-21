@@ -18,6 +18,12 @@ For a given weather type, filter the days with that specific weather type.
 Then, filter the strava data for those days and generate a heat map displaying the activities per segment.
 A reference output is generated, so that further weather dependent outputs can be compared and interpreted.
 
+Different modules will be created:
+* A module to obtain data from Strava
+* A module to obtain weather data
+* A module to generate heat maps
+* A module to filter for days with certain weather types
+
 **Requirements**
 * Obtain weather data and KNMI warnings
 * Use Strava API to obtain segment activity data
@@ -98,11 +104,7 @@ GitLab will be used to manage code versions, store documentation, and enable a C
 
 **Implementation planning**
 
-Different modules will be created:
-* A module to obtain data from Strava
-* A module to obtain weather data
-* A module to generate heat maps
-* A module to filter for days with certain weather types
+A timetable is provided in the documentation repository
 
 **Data Validation**
 * Heat map of segment activity for different weather types
