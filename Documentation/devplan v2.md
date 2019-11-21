@@ -1,12 +1,18 @@
 **Objectives**
 
-Compare Strava segment activity with weather scores.
-
+Investigate correlation between Strava segment activity and weather scores.
 
 **Context**
 
+Strava is widely used by atheletes around the world to keep track of their sports activities.
+Moreover, usings so-called segments, users can compete against each other on certain specified tracks.
 Strava segments may differ in popularity based on the weather.
 Our aim is to check whether a correlation between segment activity and the type of weather exists.
+
+**Approach**
+First, using the Strava API, segment ranking data is used to calculate daily activity frequency per segment.
+Next, weather data from these days and locations are obtained from the KNMI, as well as the KNMI weather warnings.
+
 
 **Requirements**
 * Obtain weather data and KNMI warnings
@@ -20,8 +26,6 @@ Our aim is to check whether a correlation between segment activity and the type 
 * Weather data is available for The Netherlands only
 * Not all people who do sports use Strava, and not all Strava users publish their activities, so not all activities on the segments are registered
 
-
-**Approach**
 
 
 
