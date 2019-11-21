@@ -48,11 +48,33 @@ A reference output is generated, so that further weather dependent outputs can b
 
 **Results expected**
 * Difference between different segments dependent on the weather type
-* 
+
+
+**Design Objectives**
+
+
+**Design Strategy**
+
+**Critical Features**
+
+**Risk factors**
+
+**To-avoids**
+
+**Design validation**
+
+**Test approach**
+
+**Test planning**
+
+**Test validation**
+
+**Evaluation plan**
+
 
 **Code base and documentation**
 
-GitLab will be used to manage code versions, store documentation and enable a Continuous Integration pipeline.
+GitLab will be used to manage code versions, store documentation, and enable a Continuous Integration pipeline.
 
 **Implementation planning**
 
