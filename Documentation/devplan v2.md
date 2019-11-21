@@ -21,11 +21,11 @@ A reference output is generated, so that further weather dependent outputs can b
 **Requirements**
 * Obtain weather data and KNMI warnings
 * Use Strava API to obtain segment activity data
-* function to calculate weather scores based on wind, rain, and KNMI warnings
+* Function to calculate weather scores based on wind, rain, and KNMI warnings
 * Date range is specified
 * Strava activity is specified to cycling
-* pipeline output should be verifiable
-* reference output to interpret weather dependent outputs
+* Pipeline output should be verifiable
+* Reference output to interpret weather dependent outputs
 
 **Constraints**
 * Weather data is available for The Netherlands only
