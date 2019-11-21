@@ -1,13 +1,20 @@
 **Objectives**
 
-Give a Google Maps route between an origin and destination with the smallest chance of rain
+Compare Strava segment activity with weather scores.
 
 
 **Context**
-Cyclists and pedestrians in the Netherlands like to go outside, but often they do not want to get wet.
-This tool determines a route from user specified start and end points with the least chance of rain.
+
+Strava segments may differ in popularity based on the weather.
+Our aim is to check whether a correlation between segment activity and the type of weather exists.
 
 **Requirements**
+*
+
+
+
+
+
 * User can input start and destination (GPS coordinates)
 * User can select time of day
 * User can select mode of transportation
@@ -51,3 +58,8 @@ Calculate a weather score based on the weather data of the entire route. Return 
 GitLab will be used to manage code versions and store documentation.
 
 **Implementation planning**
+
+
+**Data Validation**
+* Heat map of segment activity for different weather types
+* Filtering of obviously false data is mostly done by Strava
