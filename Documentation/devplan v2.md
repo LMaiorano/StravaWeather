@@ -56,6 +56,11 @@ GitLab will be used to manage code versions, store documentation and enable a Co
 
 **Implementation planning**
 
+Different modules will be created:
+* A module to obtain data from Strava
+* A module to obtain weather data
+* A module to generate heat maps
+* A module to filter for days with certain weather types
 
 **Data Validation**
 * Heat map of segment activity for different weather types
