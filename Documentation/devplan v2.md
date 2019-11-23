@@ -85,9 +85,13 @@ Users will bike different routes based on weather conditions. For example:
 * Design for extensibility
 
 **Design Strategy**
-* Use scrum
-* Use separate modules to decrease coupling
-* Use Test Driven Development
+
+We will be using scrum to develop the software. This is to allow for test driven development, which is 
+essential when developing a software in such a short timeframe. The software will most likely consist or 
+three primary modules: Strava data, weather data, and data processing/visualization. A priority will be
+to clearly communicate within the team how these modules need to interact with each other. Furthermore, writing and
+ saving tests throughout the development will help prevent updated code from breaking previously tested code.
+
 
 **Critical Features**
 * module that obtains Strava data
@@ -105,6 +109,7 @@ Users will bike different routes based on weather conditions. For example:
 * Waterfall method, not responding to change
 * not following the plan
 * losing view of what other group members are working on
+* Not following priorities of what the software must be able to do
 
 **Design validation and evaluation**
 
@@ -129,9 +134,14 @@ Test outputs will be compared with expected results. Also, using the points from
 GitLab will be used to manage code versions, store documentation, and enable a Continuous Integration pipeline.
 
 **Data Validation**
-* Heat map of segment activity for different weather types
-* Filtering of obviously false data is mostly done by Strava
-* If a KNMI warning is given, there should be very little activities
+
+We would like to validate our results by comparing the output to logical scenarios. For example:
+* Generating a heat map of segment activity for different weather types, and visually comparing
+* Recognizing if a KNMI warning is given, there should be very little activities (ie dangerous road conditions)
+* Exceptionally strong wind and activities along the coast.
+
+Additionally, we recognize that filtering of obviously false data (users uploading data to the incorrect activity
+ type, incomplete gps tracks, etc.) is already done by Strava.
 
 
 
