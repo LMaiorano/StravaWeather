@@ -29,6 +29,13 @@ locations popular due to specific weather conditions, the reference output will 
   weather. 
 
 
+Different modules will be created:
+* A module to obtain data from Strava
+* A module to obtain weather data
+* A module to generate heat maps
+* A module to filter for days with certain weather types
+
+
 **Requirements**
 * Obtain weather data and KNMI warnings
 * Use Strava API to obtain segment activity data
@@ -40,44 +47,86 @@ locations popular due to specific weather conditions, the reference output will 
  days.
 
 **Constraints**
-* Scope of this tool will be limited to the Netherlands. This is because KNMI provides warnings only for the
+* Scope of this tool will be limited to the Netherlands. This is because the KNMI provides warnings only for the
  Netherlands.
 * The results are representative of behavior of Strava users only, thus cannot be generalized for the general
  population.
 * Weather changes throughout the day, so some form of averaging must be made to calculate daily weather score.
 * Not all people who do sports use Strava, and not all Strava users publish their activities, so not all activities on the segments are registered
-
+* Function to calculate weather categories based on wind, rain, and KNMI warnings
+* Strava activity is specified to cycling.
+* Pipeline output should be verifiable.
+* Reference output to compare and interpret weather dependent outputs.
+* Need to take the growth/decline in Strava users over the time frame into account, or recognise it as a possible influencing factor.
+* time frame is specified for the year 2019
 
 **Resources**
 * Strava api
 * KNMI weather data
-* Beautifulsoup?
+* Google Maps (results visualization)
 
 **Priorities**
-
-* responding to change over following a plan
-* working software over comprehensive documentation
-* global design plan with clear modules needed before implementation is started
-* follow Test Driven Development and use Gitlab CI pipeline
+1.  Collect and filter data both Strava and weather data
+2.  Data handling and preparation for verification
+3.  Data verification
+4.  Data visualization
 
 **Results expected**
-* Users will bike different routes based on weather conditions. For example, cyclists will less likely ride on the
- road in the rain, and will therefore look for routes in the forest or rural areas.
- 
+
+Users will bike different routes based on weather conditions. For example: 
+* Cyclists will less likely ride on the road in the rain, and will therefore look for routes in the forest or rural
+ areas.
 * On days with high wind, coastal areas will have less activity than other regions.
 
 
+**Design Objectives**
+* Design for maintainability
+* Desgin for reusability
+* Design for extensibility
+
+**Design Strategy**
+* Use scrum
+* Use separate modules to decrease coupling
+* Use Test Driven Development
+
+**Critical Features**
+* module that obtains Strava data
+* module that obtains weather data
+* module that filters all the data
+* function that generates a reference output
+* module that displays the data
+
+**Risk factors**
+* reference output is not representative
+* data cannot be validated
+* Unclear expectations and/or results
+
+**To-avoids**
+* Waterfall method, not responding to change
+* not following the plan
+* losing view of what other group members are working on
+
+**Design validation and evaluation**
+
+Every week, the team has a meeting to evaluate on the week before and reflect on itself on group dynamics.
+Possible action points are written down for the next Sprint.
+
+**Test approach**
+* create unit tests using pytest
+* use CI pipeline on GitLab
+* possible manual testing
+
+**Test planning**
+
+Because we chose Test Driven Development, testing is done alongside code writing. Also, team members code review each other's code.
+
+**Test validation**
+
+Test outputs will be compared with expected results. Also, using the points from the data validation section below, we will try to validate the outputs.
+
 **Code base and documentation**
 
-GitLab will be used to manage code versions, store documentation and enable a Continuous Integration pipeline.
-
-**Implementation planning**
-
-Different modules will be created:
-* A module to obtain data from Strava
-* A module to obtain weather data
-* A module to generate heat maps
-* A module to filter for days with certain weather types
+GitLab will be used to manage code versions, store documentation, and enable a Continuous Integration pipeline.
 
 **Data Validation**
 * Heat map of segment activity for different weather types
@@ -102,4 +151,3 @@ Meetings with the TA is on Thursday.
 | 7 | 7 jan - 14 jan | <ul><li>Implementation</li></ul> |
 | 8 | 14 jan - 21 jan | <ul><li>Implementation Wrap-Up</li><li>Validation</li></ul> |
 | 9 | 21 jan - 24 jan | <ul><li>Final Presentation</li></ul> |
-
