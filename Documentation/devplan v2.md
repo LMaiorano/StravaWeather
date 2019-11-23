@@ -1,0 +1,105 @@
+**Objectives**
+
+Investigate if there is a relationship between the weather type, and where cyclists prefer
+to ride. 
+
+**Context**
+
+Strava is widely used by athletes around the world to keep track of their sports activities. 
+With more than 42 million users and growing, it is one of the largest real-time sources of open data on recreational activities. 
+The gps tracks of each activity are uploaded to the platform, and can be shared/viewed/compared with those of other users. One of Strava's key features is so-called "segments" which are portions of road or trail that are frequently used. 
+This allows for users to directly compare times on a leaderboard, because all segments are automatically extracted from each uploaded activity. 
+
+We will leverage the segments' data as discrete points in any given area to compare with the corresponding local
+ weather conditions. It is trivial that there will be more user activity on days with nice weather, however this tool
+  will look for a correlation of *where* geographically cyclists prefer to ride depending on the weather.
+
+**Approach**
+
+First, using the Strava API, segment ranking data is used to calculate daily activity frequency per segment for a given timeframe.
+Next, weather data from these days and locations are obtained from the KNMI, as well as the KNMI weather warnings.
+This is used to calculate weather scores based on rain, wind, and the weather warnings.
+For a given weather type, filter the days with that specific weather type.
+Then, filter the trava data for those days and generate a heat map displaying the activities per segment.
+A reference output is generated, so that further weather dependent outputs can be interpreted.
+
+In order to differentiate between locations that are inherently popular and 
+locations popular due to specific weather conditions, the reference output will be made as a baseline. The exact
+ parameters of this still needs to be determined, but will likely include variables such as day of week, season, and
+  weather. 
+
+
+**Requirements**
+* Obtain weather data and KNMI warnings
+* Use Strava API to obtain segment activity data
+* Create function to calculate weather scores based on wind, rain, and KNMI warnings
+* Date range as input parameter
+* Strava activity is specified to cycling
+* Pipeline output should be verifiable
+* The intensity (total number) of activities must be normalized, to allow for comparison between high and low usage
+ days.
+
+**Constraints**
+* Scope of this tool will be limited to the Netherlands. This is because KNMI provides warnings only for the
+ Netherlands.
+* The results are representative of behavior of Strava users only, thus cannot be generalized for the general
+ population.
+* Weather changes throughout the day, so some form of averaging must be made to calculate daily weather score.
+* Not all people who do sports use Strava, and not all Strava users publish their activities, so not all activities on the segments are registered
+
+
+**Resources**
+* Strava api
+* KNMI weather data
+* Beautifulsoup?
+
+**Priorities**
+
+* responding to change over following a plan
+* working software over comprehensive documentation
+* global design plan with clear modules needed before implementation is started
+* follow Test Driven Development and use Gitlab CI pipeline
+
+**Results expected**
+* Users will bike different routes based on weather conditions. For example, cyclists will less likely ride on the
+ road in the rain, and will therefore look for routes in the forest or rural areas.
+ 
+* On days with high wind, coastal areas will have less activity than other regions.
+
+
+**Code base and documentation**
+
+GitLab will be used to manage code versions, store documentation and enable a Continuous Integration pipeline.
+
+**Implementation planning**
+
+Different modules will be created:
+* A module to obtain data from Strava
+* A module to obtain weather data
+* A module to generate heat maps
+* A module to filter for days with certain weather types
+
+**Data Validation**
+* Heat map of segment activity for different weather types
+* Filtering of obviously false data is mostly done by Strava
+* If a KNMI warning is given, there should be very little activities
+
+
+
+**Timeline**
+
+Project group meetings are held every Tuesday morning. The timetable below is thus based on weeks starting on Tuesdays.
+Meetings with the TA is on Thursday.
+
+| **Week** | **Date** | **Activities** |
+| ------ | ------ | ------ |
+| 1 | 12 nov - 19 nov |  <ul><li>Select project idea</li><li>Make draft Development plan</li></ul>|
+| 2 | 19 nov - 26 nov | <ul><li>Discuss Development plan</li><li>Find resources</li><li>Finalize Development plan</li><li>Start Design plan</li></ul> |
+| 3 | 26 nov - 3 dec | <ul><li>Discuss Design plan</li><li>Work on Design plan</li></ul> |
+| 4 | 3 dec - 10 dec | <ul><li>Validate Design plan</li><li>Peer Review 1</li><li>Start implementation</li></ul> |
+| 5 | 10 dec - 17 dec | <ul><li>Implementation</li></ul> |
+| 6 | 17 dec - 7 jan | <ul><li>Implementation</li><li>Midterm Presentation</li><li>Peer Review 2</li></ul> |
+| 7 | 7 jan - 14 jan | <ul><li>Implementation</li></ul> |
+| 8 | 14 jan - 21 jan | <ul><li>Implementation Wrap-Up</li><li>Validation</li></ul> |
+| 9 | 21 jan - 24 jan | <ul><li>Final Presentation</li></ul> |
+
