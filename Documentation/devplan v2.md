@@ -12,7 +12,7 @@ This allows for users to directly compare times on a leaderboard, because all se
 
 We will leverage the segments' data as discrete points in any given area to compare with the corresponding local
  weather conditions. It is trivial that there will be more user activity on days with nice weather, however this tool
-  will look for a correlation of *where* geographically cyclists prefer to ride depending on the weather.
+  will look for a correlation of *where* cyclists prefer to ride depending on the weather.
 
 **Approach**
 
