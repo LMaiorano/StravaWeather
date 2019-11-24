@@ -1,1 +1,15 @@
-Pydap
+pytest
+pylint
+coverage
+pytest-cov
+setuptools
+
+
+# Added for data management
+pandas
+numpy
+
+# Added for APIs
+requests
+beautifulsoup4
+
