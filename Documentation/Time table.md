@@ -15,4 +15,3 @@ Meetings with the TA is on Thursday.
 | 7 | 7 jan - 14 jan | <ul><li>Implementation</li></ul> |
 | 8 | 14 jan - 21 jan | <ul><li>Implementation Wrap-Up</li><li>Validation</li></ul> |
 | 9 | 21 jan - 24 jan | <ul><li>Final Presentation</li></ul> |
->>>>>>> 43b5294c85998ff0c7a90d0a99374db4949f5f6b
