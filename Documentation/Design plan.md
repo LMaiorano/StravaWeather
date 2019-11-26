@@ -40,11 +40,11 @@ If needed, we plan to store obtained data for later analysis, using ...
 * Visualisation Module
 
 *Could Have*
-* Predictions
+* Advice where you should bike based on weather predictions
 * Interactive heat map
-* Implementation of traffic signs
 
 *Won't Have*
-* App
+* App to show data results
 * Feedback to Strava
-* Outside Netherlands
+* Expand data analysis to outside The Netherlands
+* Implementation of traffic signs and jam avoidance
