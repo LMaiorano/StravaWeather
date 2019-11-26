@@ -17,3 +17,7 @@ Storage of data: are we allowed to store data, and if so, which format/style sho
 **5**
 
 Is the design plan actually a architecture design plan?
+
+**6**
+
+Are there any requirements for the design plan?
