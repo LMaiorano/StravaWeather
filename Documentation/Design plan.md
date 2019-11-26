@@ -1,6 +1,4 @@
-**Design choices**
-
-*Modules*
+**Modules**
 
 First of all, we chose to divide the software in to several separate modules to decrease coupling and increase maintainability.
 Four modules can be distinguished:
@@ -13,7 +11,7 @@ An visualisation of the modules is attached, including interfaces and methods pe
 
 Another advantage of modularization is that different team members can work on separate modules, without having to wait for others to finish their work.
 
-*External libraries*
+**External libraries**
 
 During this project, we plan to use the following external libraries:
 * BeautifulSoup to scrape the weather data
@@ -22,7 +20,7 @@ During this project, we plan to use the following external libraries:
 * Requests to scrape the weather data
 * Strava API to obtain segment data
 
-*Data storage*
+**Data storage**
 
 If needed, we plan to store obtained data for later analysis, using ...
 
