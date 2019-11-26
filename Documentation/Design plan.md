@@ -1,5 +1,7 @@
 **Design choices**
 
+*Modules*
+
 First of all, we chose to divide the software in to several separate modules to decrease coupling and increase maintainability.
 Four modules can be distinguished:
 1. A module that uses the Strava API to obtain data from Strava and filter this.
@@ -7,4 +9,21 @@ Four modules can be distinguished:
 3. A module that uses the Strava and weather data to perform the actual analysis.
 4. A module that uses the analysis to generate visualisations like heat maps.
 
-An visualisation of the modules is attached.
+An visualisation of the modules is attached, including interfaces and methods per module.
+
+Another advantage of modularization is that different team members can work on separate modules, without having to wait for others to finish their work.
+
+*External libraries*
+
+During this project, we plan to use the following external libraries:
+* BeautifulSoup to scrape the weather data
+* Pandas to perform data analysis
+* Numpy to perform data analysis
+* Requests to scrape the weather data
+* Strava API to obtain segment data
+
+*Data storage*
+
+
+**Design validation**
+
