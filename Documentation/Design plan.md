@@ -24,6 +24,7 @@ During this project, we plan to use the following external libraries:
 
 *Data storage*
 
+If needed, we plan to store obtained data for later analysis, using ...
 
 **Design validation**
 
