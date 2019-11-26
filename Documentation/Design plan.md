@@ -28,3 +28,23 @@ If needed, we plan to store obtained data for later analysis, using ...
 
 **Design validation**
 
+**MOSCOW method of features**
+
+*Must Have*
+* Strava module
+* Weather module
+* Analysis module
+* Controller module
+
+*Should Have*
+* Visualisation Module
+
+*Could Have*
+* Predictions
+* Interactive heat map
+* Implementation of traffic signs
+
+*Won't Have*
+* App
+* Feedback to Strava
+* Outside Netherlands
