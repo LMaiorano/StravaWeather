@@ -1,4 +1,3 @@
-
 **Modules**
 
 First of all, we chose to divide the software in to several separate modules to decrease coupling and increase maintainability.
