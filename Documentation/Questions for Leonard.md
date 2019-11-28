@@ -50,11 +50,7 @@ The output of the analysis are heat maps, can we use a visual inspection, or sho
 Grading
 
 if stuck to dev and design plan. Presentation skills. If not kept to dev plan, discuss with TA and change dev plan.
-20% for dev/design plan is not about the plan, but the process.
+20% for dev/design plan is not all about the plan, but how well the implementation follows the plan.
 
 Implementation is not important for grading, because not all students are equally well at coding
 Implementation has influence on design plan, so still important
-
-Very subjective
-
-Process is also important
