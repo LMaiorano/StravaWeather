@@ -20,7 +20,10 @@ Four modules can be distinguished:
 5. A module for the control of the four other modules and where parameters for the tool can be filled in.
     - The type of weather and the day of interest for the visualization can be choosen.
 
-An visualisation of the modules is attached (Modules.jpg), including interfaces and methods per module.
+In the image below the in-/outputs of the modules and their interface are shown. 
+
+LUIGI LUIGI 
+
 
 Another advantage of modularization is that different team members can work on separate modules, without having to wait for others to finish their work.
 
