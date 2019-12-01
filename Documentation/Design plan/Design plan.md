@@ -17,7 +17,7 @@ as each day the data source is updated. The module will then:
 
 The weather will be obtained from the KNMI. This module will then:
 - Filter and store the data in a pandas dataframe
-- Determine a Weather Score for each day. This will consist of 5 individual scores: sun hours, average windspeed, extreme wheather (boolean), hours of rain
+- Determine a Weather Score for each day. This will consist of 4 individual scores: sun hours, average windspeed, extreme weather (boolean), hours of rain
 - Calculate an overall weather score and verify acceptable accuracy with the KNMI weercijfer
 - Extreme weather such as fog, ice, or thunder will also be taken into account
 <br/><br/>
@@ -76,7 +76,7 @@ For the analysis of the data a baseline will be determined for each day of the w
 past couple of years (this number needs to be further defined). While this baseline is used for the visualization of the heatmaps, it can also be used to check if the weather has a significant influence
 on the number of visitors per segment. A difference of 20% (this percentage could change later in the project) in comparision with the baseline stands for a causation between the (certain type of) weather and outdoor sporting activities.
 
-The overall weather  score will be compared with the weatherscore the KNMI provides to check whether it makes sense.
+The overall weather score will be compared with the weatherscore the KNMI provides to check whether it makes sense.
 
 
 **MOSCOW method of features**
