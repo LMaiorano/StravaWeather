@@ -22,7 +22,8 @@ Four modules can be distinguished:
 
 In the image below the in-/outputs of the modules and their interface are shown. 
 
-LUIGI LUIGI 
+![PackageInterfaces](./PackageInterfaces.svg)
+
 
 
 Another advantage of modularization is that different team members can work on separate modules, without having to wait for others to finish their work.
