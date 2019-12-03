@@ -12,7 +12,7 @@
 
 **MOSCOW method of features**
 
-Will do Must and Should have
+The Must Have and Should Have requirements are incoporated in the design.
 
 **Approach validation**
 
