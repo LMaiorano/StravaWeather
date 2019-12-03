@@ -6,7 +6,9 @@ Burndown graph looks nice, should keep that up.
 Development plan has a clear diagram. Which makes that everyone has clear what 
 has to be done
 
+
 **Sprint 3 Planning**
+
 In the coming weeks:
 First implement Visualization-module then the Analysis-module: so one can check 
 whether the data is true.
