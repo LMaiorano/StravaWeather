@@ -6,7 +6,7 @@ Burndown graph looks nice, should keep that up.
 Development plan has a clear diagram. Which makes that everyone has clear what 
 has to be done
 
-** Sprint 3 Planning **
+**Sprint 3 Planning**
 In the coming weeks:
 First implement Visualization-module then the Analysis-module: so one can check 
 whether the data is true.
@@ -24,7 +24,7 @@ This sprint we'd like to have sample datasets for the Strava- and
 Weather-module, so we can start the Analysis-module in the next sprint.
 Write a function for the weather score.
 
-** In Sprint 3 (milestone): **
+**In Sprint 3 (milestone):**
 - Julius & Ingmar on weather-module.
 - Pieter & Jasper on Strava-module
 - Luigi on heatmap.
