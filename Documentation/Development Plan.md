@@ -10,9 +10,9 @@ With more than 42 million users and growing, it is one of the largest real-time 
 The gps tracks of each activity are uploaded to the platform, and can be shared/viewed/compared with those of other users. One of Strava's key features is so-called "segments" which are portions of road or trail that are frequently used. 
 This allows for users to directly compare times on a leaderboard, because all segments are automatically extracted from each uploaded activity. 
 
-We will leverage the segments' data as discrete points in any given area to compare with the corresponding local
- weather conditions. It is trivial that there will be more user activity on days with nice weather, however this tool
-  will look for a correlation of *where* cyclists prefer to ride depending on the weather.
+We will leverage the segments' data as discrete points in any given area to compare with the corresponding local 
+weather conditions. It is trivial that there will be more user activity on days with nice weather, however this tool
+ will look for a correlation of *where* cyclists prefer to ride depending on the weather.
 
 **Approach**
 
@@ -30,10 +30,11 @@ locations popular due to specific weather conditions, the reference output will 
 
 
 Different modules will be created:
-* A module to obtain data from Strava
-* A module to obtain weather data
+* A module to obtain and filter data from Strava
+* A module to obtain and filter weather data
+* A module to analyse the data obtained from Strava and the weather website
 * A module to generate heat maps
-* A module to filter for days with certain weather types
+* A controller module
 
 
 **Requirements**
@@ -55,11 +56,10 @@ Different modules will be created:
 * Not all people who do sports use Strava, and not all Strava users publish their activities, so not all activities on the segments are registered
 * Function to calculate weather categories based on wind, rain, and KNMI warnings
 * Strava activity is specified to cycling.
-* Pipeline output should be verifiable.
 * Reference output to compare and interpret weather dependent outputs.
 * Need to take the growth/decline in Strava users over the time frame into account, or recognise it as a possible influencing factor.
 * time frame is specified for the year 2019
-* 
+
 
 **MOSCOW method of features**
 
