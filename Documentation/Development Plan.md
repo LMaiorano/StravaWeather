@@ -92,8 +92,8 @@ This is a prioritized list of features that were considered during the initial d
 **Priorities**
 1.  Collect and filter data both Strava and weather data
 2.  Data handling and preparation for verification
-3.  Data verification
-4.  Data visualization
+3.  Data visualization
+4.  Data verification
 
 **Results expected**
 
@@ -118,9 +118,8 @@ to clearly communicate within the team how these modules need to interact with e
 
 
 **Critical Features**
-* module that obtains Strava data
-* module that obtains weather data
-* module that filters all the data
+* module that obtains and filters Strava data
+* module that obtains and filters weather data
 * function that generates a reference output
 * module that displays the data
 
