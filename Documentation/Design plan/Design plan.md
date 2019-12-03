@@ -77,27 +77,3 @@ past couple of years (this number needs to be further defined). While this basel
 on the number of visitors per segment. A difference of 20% (this percentage could change later in the project) in comparision with the baseline stands for a causation between the (certain type of) weather and outdoor sporting activities.
 
 The overall weather score will be compared with the weatherscore the KNMI provides to check whether it makes sense.
-
-
-**MOSCOW method of features**
-
-This is a prioritized list of features that were considered during the initial design phase.
-
-*Must Have*
-* Strava module
-* Weather module
-* Analysis module
-* Controller module
-
-*Should Have*
-* Visualisation Module
-
-*Could Have*
-* Advice where you should bike based on weather predictions
-* Interactive heat map
-
-*Won't Have*
-* App to show data results
-* Feedback to Strava
-* Expand data analysis to outside The Netherlands
-* Implementation of traffic signs and jam avoidance
