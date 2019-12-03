@@ -1,4 +1,4 @@
-** Sprint 2 **
+**Sprint 2**
 
 Sprint finished, all issues closed.
 'Time spent' was not really used, should do in the next one, to keep track of who does what.
