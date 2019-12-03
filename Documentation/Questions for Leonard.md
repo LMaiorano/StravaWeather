@@ -54,3 +54,12 @@ if stuck to dev and design plan. Presentation skills. If not kept to dev plan, d
 
 Implementation is not important for grading, because not all students are equally well at coding
 Implementation has influence on design plan, so still important
+
+**9**
+
+What should we do for design validation?
+
+
+**10**
+
+We want to use heat maps for analysis validation, is dat okay?
