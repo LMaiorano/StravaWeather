@@ -37,7 +37,7 @@ pylint:
   script:
     - pip install pylint
     # By disabling import errors it's not needed to install all the requirements
-    - pylint --rcfile .pylintrc project/
+    - pylint --rcfile .pylintrc Project/
     
     
 radon:
@@ -45,10 +45,10 @@ radon:
   allow_failure: true
   script:
     - pip install radon
-    - radon cc project/
-    - radon raw project/
-    - radon mi project/
-    - radon hal project/
+    - radon cc Project/
+    - radon raw Project/
+    - radon mi Project/
+    - radon hal Project/
 
 pylama:
   stage: Static_Analysis
@@ -56,7 +56,7 @@ pylama:
   script:
     - pip install pylama
     # Disable unused imports warnings
-    - pylama --ignore W0611 project/
+    - pylama --ignore W0611 Project/
 
     
 
@@ -72,17 +72,17 @@ pytest:
   script:
     - pip install pytest
     - python -m pytest 
-    - pytest --cov-config=.coveragerc --cov=project --cov-report=html project/test
+    # - pytest --cov-config=.coveragerc --cov=project --cov-report=html Project/test
 #   artifacts:
 #     reports:
 #       metrics: metrics.txt
   
 
-coverage:
-  stage: Test
-  allow_failure: true
-  script:
-    - coverage run --branch --source=project project/test/database_test.py
-    - coverage report -m
-    - echo 'metric_name metric_value' > metrics.txt
-  coverage: '/TOTAL.*\s+(\d+%)$/'
+# coverage:
+#   stage: Test
+#   allow_failure: true
+#   script:
+#     - coverage run --branch --source=project Project/test/database_test.py
+#     - coverage report -m
+#     - echo 'metric_name metric_value' > metrics.txt
+#   coverage: '/TOTAL.*\s+(\d+%)$/'
