@@ -68,7 +68,7 @@ flake8:
 
 pytest:
   stage: Test
-  allow_failure: true
+  allow_failure: false
   script:
     - pip install pytest
     - python -m pytest 
