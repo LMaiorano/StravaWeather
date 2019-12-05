@@ -73,9 +73,9 @@ pytest:
     - pip install pytest
     - python -m pytest 
     - pytest --cov-config=.coveragerc --cov=project --cov-report=html project/test
-  artifacts:
-    reports:
-      metrics: metrics.txt
+#   artifacts:
+#     reports:
+#       metrics: metrics.txt
   
 
 coverage:
