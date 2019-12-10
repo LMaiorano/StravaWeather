@@ -58,7 +58,7 @@ Different modules will be created:
 * Strava activity is specified to cycling.
 * Reference output to compare and interpret weather dependent outputs.
 * Need to take the growth/decline in Strava users over the time frame into account, or recognise it as a possible influencing factor.
-* time frame is specified for the year 2019
+* weather data is obtained for the time frame 7 am to 7 pm. This means that a little daylight in which people could go cycling is skipped in the summer.
 
 
 **MOSCOW method of features**
