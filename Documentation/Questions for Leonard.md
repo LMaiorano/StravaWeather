@@ -63,3 +63,14 @@ What should we do for design validation?
 **10**
 
 We want to use heat maps for analysis validation, is dat okay?
+
+Yes
+
+**11**
+
+When are the presentations?
+
+
+**12**
+
+Peer review closed too early, what to do now?
