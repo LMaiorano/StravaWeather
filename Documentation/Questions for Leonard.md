@@ -68,9 +68,12 @@ Yes
 
 **11**
 
-When are the presentations?
+When are the final presentations?
 
+Tuesday in week 9
 
 **12**
 
 Peer review closed too early, what to do now?
+
+send mails individually
