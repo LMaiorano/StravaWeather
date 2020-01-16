@@ -36,7 +36,7 @@ This is the core of the program:
 
 **Visualization Module**
 
-The comparisons of user activity during different weather types will be done manually, using heatmaps as a visual medium. The Google Maps API and the python package "gmap" can 
+The comparisons of user activity during different weather types will be done manually, using heatmaps as a visual medium. The data will be plotted and visualized using the Matplotlib library, the Google Maps API and the python package "gmap". Smart combined use of these can 
 be used to produce an interactive heatmap of the segments' intensity. The backgroud will be the standard google maps, which allows us to directly validate our data with 
 that on the Strava website. 
 <br/><br/>
@@ -63,7 +63,7 @@ During this project, we plan to use the following external libraries:
 * Numpy to perform data analysis
 * Requests to scrape the weather data
 * Strava API to obtain segment data
-* Gmplot and Google Maps API to display the data as a heatmap
+* Matplotlib, Gmplot and Google Maps API to display the data as a heatmap
 
 
 **Data storage**
