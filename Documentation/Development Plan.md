@@ -48,8 +48,7 @@ Different modules will be created:
  days.
 
 **Constraints**
-* Scope of this tool will be limited to the Netherlands. This is because the KNMI provides warnings only for the
- Netherlands.
+* Scope of this tool will be limited to the province Zuid-Holland. This is because a bigger scale (the whole of the Netherlands for example) would result in having to analyze too many segments, which the Strava API does not allow. Also it would take ages to run the code to obtain all the data.
 * The results are representative of behavior of Strava users only, thus cannot be generalized for the general
  population.
 * Weather changes throughout the day, so some form of averaging must be made to calculate daily weather score.
