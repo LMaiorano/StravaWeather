@@ -20,7 +20,7 @@ First, using the Strava API, segment ranking data is used to calculate daily act
 Next, weather data from these days and locations are obtained from the KNMI, as well as the KNMI weather warnings.
 This is used to calculate weather scores based on rain, wind, and the weather warnings.
 For a given weather type, filter the days with that specific weather type.
-Then, filter the trava data for those days and generate a heat map displaying the activities per segment.
+Then, filter the Strava data for those days and generate a heat map displaying the activities per segment.
 A reference output is generated, so that further weather dependent outputs can be interpreted.
 
 In order to differentiate between locations that are inherently popular and 
@@ -48,8 +48,7 @@ Different modules will be created:
  days.
 
 **Constraints**
-* Scope of this tool will be limited to the Netherlands. This is because the KNMI provides warnings only for the
- Netherlands.
+* Scope of this tool will be limited to the province Zuid-Holland. This is because a bigger scale (the whole of the Netherlands for example) would result in having to analyze too many segments, which the Strava API does not allow. Also it would take ages to run the code to obtain all the data.
 * The results are representative of behavior of Strava users only, thus cannot be generalized for the general
  population.
 * Weather changes throughout the day, so some form of averaging must be made to calculate daily weather score.
