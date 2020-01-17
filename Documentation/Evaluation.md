@@ -13,7 +13,8 @@ This project however, all team members really felt more engaged in the project a
 
 **Implementation**
 
-In comparison to the previous project, the  because there was a clear Design Plan from the beginning
+In comparison to the previous project, theere was a clear Design Plan from the beginning, 
+which helped a lot in dividing the work that needed to be done.
 
 
 Even though we believe we started with a very thorough Development Plan, some changes were necessary.
