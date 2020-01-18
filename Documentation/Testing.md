@@ -20,3 +20,4 @@ The analysis results can be validated using a list of weather types and their ex
 The output of the data analysis pipeline is visualised through a series of heat maps. The user can specify the weather types that need to be taken into account. To validate the results and test the hypothesis specified in the Development Plan, visual inspection is needed so multiple heat maps can be compared with each other. In a next project this could be done automatically, but that was out of the scope of this project.
 
 *stuk over hypothesis test results!*
+![](./Ideal_vs_NoWind_sm.gif)
