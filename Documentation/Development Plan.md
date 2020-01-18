@@ -26,7 +26,9 @@ A reference output is generated, so that further weather dependent outputs can b
 In order to differentiate between locations that are inherently popular and 
 locations popular due to specific weather conditions, the reference output will be made as a baseline. The exact
  parameters of this still needs to be determined, but will likely include variables such as day of week, season, and
-  weather. 
+ weather.
+
+To prepare the data from Strava, some outliers will have to be removed. For example, some entries can have an entry date in the year 2030, which is obviously incorrect. These data points will have to be removed. Also, there are a couple of segments which were specifically built for cycling events. These segments have been used for only one day, but on that day, often more than 300 cyclist use that segment. This really messes up the average of the segments, so it was decided to remove these segments as well, since they do not provide information on where people cycle depending on the weather conditions.
 
 
 Different modules will be created:
@@ -49,15 +51,15 @@ Different modules will be created:
 
 **Constraints**
 * Scope of this tool will be limited to the province Zuid-Holland. This is because a bigger scale (the whole of the Netherlands for example) would result in having to analyze too many segments, which the Strava API does not allow. Also it would take ages to run the code to obtain all the data.
-* The results are representative of behavior of Strava users only, thus cannot be generalized for the general
- population.
+* The results are representative of behavior of Strava users only, thus cannot be generalized for the general population.
 * Weather changes throughout the day, so some form of averaging must be made to calculate daily weather score.
 * Not all people who do sports use Strava, and not all Strava users publish their activities, so not all activities on the segments are registered
-* Function to calculate weather categories based on wind, rain, and KNMI warnings
 * Strava activity is specified to cycling.
 * Reference output to compare and interpret weather dependent outputs.
 * Need to take the growth/decline in Strava users over the time frame into account, or recognise it as a possible influencing factor.
 * weather data is obtained for the time frame 7 am to 7 pm. This means that a little daylight in which people could go cycling is skipped in the summer.
+* the weather stations used to obtain weather data are all located in Zuid-Holland. It is possible that there is a weather station in a different state that is closer to several segments.
+* The coordinate grid used to obtain segment information from Strava is specified to 5x5 km. This implies that not all segments will be used, since the Strava API only returns the top 10 segments within a given coordinate square. This is not a very big problem, since most cyclists only use the popular segments, but it does have to be taken into account. It is possible to use a grid that is less coarse, but that also means having to do even more requests.
 
 
 **MOSCOW method of features**
