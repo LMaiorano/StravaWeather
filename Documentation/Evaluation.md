@@ -16,17 +16,13 @@ The list of constraints has grown a little since the beginning of the project, b
 
 Of the MOSCOW list of features, all Must and Should Haves have been implemented. From the Could Have list, it is possible to have an interactive heat map, but it was decided to make use of matplotlib instead of Google Maps to make the validation easier. During the project, we stuck to the priorities set in the Development Plan, and also our Design Objectives and Strategy were maintained, as can also be read in the previous paragraph.
 
-Because
+The timeline presented in the Design Plan was followed, but the module to scrape the data from Strava took much longer than expected, as can also be read in the next paragraph. This resulted in the final two weeks being packed with efforts to clean and analyse the data. This, in combination with the huge size of the data set, also meant that we did not know whether our data could be validated until the very end. This was one of the risk factors presented in the Design Plan, so even though we wanted to anticipate on it, it took much longer than expected to actually validate the data.
 
 **Implementation Process**
 
 In comparison to the previous project, there was a clear Design Plan from the beginning, which helped a lot in dividing the work that needed to be done. For example, because we created a table of in- and output parameters of all modules, it was possible to start on different modules at the same time, without having data to test the modules, since everybody already knew what the format and structure of the input data would be. In combination with the very clear communication, this really helped the team to work on separate modules at the same time without losing track of what the other members were doing.
 
 Even though we believe we started with a very thorough Development Plan, some changes were necessary. For example, the module that scrapes the data from the Strava website took much longer than expected, which resulted in a very short time left to finish the actual data analysis and results validation. Also, we did not anticipate that there would be such a huge amount of data available on Strava. Because of this, in combination with the severe limitations posed by the Strava API, we decided to limit our scope to Zuid-Holland instead.
-
-
-
-
 
 **Overall**
 
