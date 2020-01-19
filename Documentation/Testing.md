@@ -11,9 +11,9 @@ A lot of tests are for small functions, so validation for those tests was done u
 By using Continuous Integration on GitLab, tests were always done when a commit was pushed. By using Test Driven Development, the tests were written alongside with the code, which improves the accuracy of the tests.
 
 The analysis results can be validated using a set of weather scores and their results relative to the baseline: (where the baseline is the average activity of a segment based on all-time data)
-* LOW weather scores should in general have a negative percentage of the baseline.
-* MEDIUM weather scores should result in approximately a zero percentage.
-* HIGH weather scores should overall be a positive percentage.
+* LOW weather scores should in general have a negative percentage of the baseline (less people cycle in poor weather).
+* MEDIUM weather scores should result in approximately a zero percentage (medium score is a typical NL day).
+* HIGH weather scores should overall be a positive percentage (more people cycle in nice weather).
 
 These expectations were verified, as seen in the demonstration below:
 
