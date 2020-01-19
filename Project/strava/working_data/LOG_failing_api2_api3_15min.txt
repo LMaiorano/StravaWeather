@@ -1,0 +1,346 @@
+Sat, 28 Dec 2019 06:37:24 INFO     Starting multi-user building of leaderboards, using 3 API accounts
+Sat, 28 Dec 2019 06:37:24 INFO     Using API User: api_1
+Sat, 28 Dec 2019 06:43:34 INFO     Request limit reached on page 4 of segment 7366989. (User api_1)
+Sat, 28 Dec 2019 06:43:34 INFO     User api_1 request-limited, was processing segment 7366989. 84 segments complete.
+Sat, 28 Dec 2019 06:43:34 INFO     Using API User: api_2
+Sat, 28 Dec 2019 06:51:09 INFO     Request limit reached on page 5 of segment 15664904. (User api_2)
+Sat, 28 Dec 2019 06:51:09 INFO     User api_2 request-limited, was processing segment 15664904. 70 segments complete.
+Sat, 28 Dec 2019 06:51:09 INFO     Using API User: api_3
+Sat, 28 Dec 2019 06:57:27 INFO     Request limit reached when determining #pgs of segment 19805441. (User api_3)
+Sat, 28 Dec 2019 06:57:27 INFO     User api_3 request-limited, was processing segment 19805441. 57 segments complete.
+Sat, 28 Dec 2019 06:57:27 INFO     Using API User: api_1
+Sat, 28 Dec 2019 07:06:23 INFO     Request limit reached when determining #pgs of segment 14774772. (User api_1)
+Sat, 28 Dec 2019 07:06:23 INFO     User api_1 request-limited, was processing segment 14774772. 230 segments complete.
+Sat, 28 Dec 2019 07:06:23 INFO     Using API User: api_2
+Sat, 28 Dec 2019 07:12:33 INFO     Request limit reached on page 10 of segment 3108159. (User api_2)
+Sat, 28 Dec 2019 07:12:33 INFO     User api_2 request-limited, was processing segment 3108159. 156 segments complete.
+Sat, 28 Dec 2019 07:12:33 INFO     Using API User: api_3
+Sat, 28 Dec 2019 07:21:24 INFO     Request limit reached on page 1 of segment 4402706. (User api_3)
+Sat, 28 Dec 2019 07:21:24 INFO     User api_3 request-limited, was processing segment 4402706. 108 segments complete.
+Sat, 28 Dec 2019 07:21:24 INFO     Using API User: api_1
+Sat, 28 Dec 2019 07:27:38 INFO     Request limit reached on page 7 of segment 7387726. (User api_1)
+Sat, 28 Dec 2019 07:27:38 INFO     User api_1 request-limited, was processing segment 7387726. 333 segments complete.
+Sat, 28 Dec 2019 07:27:38 INFO     Using API User: api_2
+Sat, 28 Dec 2019 07:36:16 INFO     Request limit reached on page 19 of segment 15767263. (User api_2)
+Sat, 28 Dec 2019 07:36:16 INFO     User api_2 request-limited, was processing segment 15767263. 216 segments complete.
+Sat, 28 Dec 2019 07:36:16 INFO     Using API User: api_3
+Sat, 28 Dec 2019 07:42:34 INFO     Request limit reached on page 11 of segment 4065218. (User api_3)
+Sat, 28 Dec 2019 07:42:34 INFO     User api_3 request-limited, was processing segment 4065218. 146 segments complete.
+Sat, 28 Dec 2019 07:42:34 INFO     Using API User: api_1
+Sat, 28 Dec 2019 07:51:36 INFO     Request limit reached on page 3 of segment 13438792. (User api_1)
+Sat, 28 Dec 2019 07:51:36 INFO     User api_1 request-limited, was processing segment 13438792. 465 segments complete.
+Sat, 28 Dec 2019 07:51:36 INFO     Using API User: api_2
+Sat, 28 Dec 2019 07:58:01 INFO     Request limit reached on page 34 of segment 5704106. (User api_2)
+Sat, 28 Dec 2019 07:58:01 INFO     User api_2 request-limited, was processing segment 5704106. 239 segments complete.
+Sat, 28 Dec 2019 07:58:01 INFO     Using API User: api_3
+Sat, 28 Dec 2019 08:06:20 INFO     Request limit reached on page 5 of segment 5802193. (User api_3)
+Sat, 28 Dec 2019 08:06:20 INFO     User api_3 request-limited, was processing segment 5802193. 212 segments complete.
+Sat, 28 Dec 2019 08:06:20 INFO     Using API User: api_1
+Sat, 28 Dec 2019 08:12:40 INFO     Request limit reached on page 24 of segment 7652283. (User api_1)
+Sat, 28 Dec 2019 08:12:40 INFO     User api_1 request-limited, was processing segment 7652283. 543 segments complete.
+Sat, 28 Dec 2019 08:12:40 INFO     Using API User: api_2
+Sat, 28 Dec 2019 08:21:19 INFO     Request limit reached when determining #pgs of segment 8107736. (User api_2)
+Sat, 28 Dec 2019 08:21:19 INFO     User api_2 request-limited, was processing segment 8107736. 332 segments complete.
+Sat, 28 Dec 2019 08:21:19 INFO     Using API User: api_3
+Sat, 28 Dec 2019 08:27:39 INFO     Request limit reached on page 4 of segment 12705180. (User api_3)
+Sat, 28 Dec 2019 08:27:39 INFO     User api_3 request-limited, was processing segment 12705180. 254 segments complete.
+Sat, 28 Dec 2019 08:27:39 INFO     Using API User: api_1
+Sat, 28 Dec 2019 08:36:13 INFO     Request limit reached on page 10 of segment 5881424. (User api_1)
+Sat, 28 Dec 2019 08:36:13 INFO     User api_1 request-limited, was processing segment 5881424. 663 segments complete.
+Sat, 28 Dec 2019 08:36:13 INFO     Using API User: api_2
+Sat, 28 Dec 2019 08:42:31 INFO     Request limit reached on page 7 of segment 5883889. (User api_2)
+Sat, 28 Dec 2019 08:42:31 INFO     User api_2 request-limited, was processing segment 5883889. 407 segments complete.
+Sat, 28 Dec 2019 08:42:31 INFO     Using API User: api_3
+Sat, 28 Dec 2019 08:51:13 INFO     Request limit reached on page 13 of segment 17469982. (User api_3)
+Sat, 28 Dec 2019 08:51:13 INFO     User api_3 request-limited, was processing segment 17469982. 304 segments complete.
+Sat, 28 Dec 2019 08:51:13 INFO     Using API User: api_1
+Sat, 28 Dec 2019 08:57:48 INFO     Request limit reached on page 9 of segment 11791710. (User api_1)
+Sat, 28 Dec 2019 08:57:48 INFO     User api_1 request-limited, was processing segment 11791710. 727 segments complete.
+Sat, 28 Dec 2019 08:57:48 INFO     Using API User: api_2
+Sat, 28 Dec 2019 09:06:33 INFO     Request limit reached on page 4 of segment 2092401. (User api_2)
+Sat, 28 Dec 2019 09:06:33 INFO     User api_2 request-limited, was processing segment 2092401. 463 segments complete.
+Sat, 28 Dec 2019 09:06:33 INFO     Using API User: api_3
+Sat, 28 Dec 2019 09:12:50 INFO     Request limit reached on page 6 of segment 3554249. (User api_3)
+Sat, 28 Dec 2019 09:12:50 INFO     User api_3 request-limited, was processing segment 3554249. 353 segments complete.
+Sat, 28 Dec 2019 09:12:50 INFO     Using API User: api_1
+Sat, 28 Dec 2019 09:21:20 INFO     Request limit reached on page 3 of segment 10141314. (User api_1)
+Sat, 28 Dec 2019 09:21:20 INFO     User api_1 request-limited, was processing segment 10141314. 814 segments complete.
+Sat, 28 Dec 2019 09:21:20 INFO     Using API User: api_2
+Sat, 28 Dec 2019 09:27:37 INFO     Request limit reached on page 6 of segment 12735347. (User api_2)
+Sat, 28 Dec 2019 09:27:37 INFO     User api_2 request-limited, was processing segment 12735347. 523 segments complete.
+Sat, 28 Dec 2019 09:27:37 INFO     Using API User: api_3
+Sat, 28 Dec 2019 09:36:38 INFO     Request limit reached on page 2 of segment 9994573. (User api_3)
+Sat, 28 Dec 2019 09:36:38 INFO     User api_3 request-limited, was processing segment 9994573. 396 segments complete.
+Sat, 28 Dec 2019 09:36:38 INFO     Using API User: api_1
+Sat, 28 Dec 2019 09:42:59 INFO     Request limit reached on page 10 of segment 6804520. (User api_1)
+Sat, 28 Dec 2019 09:42:59 INFO     User api_1 request-limited, was processing segment 6804520. 873 segments complete.
+Sat, 28 Dec 2019 09:42:59 INFO     Using API User: api_2
+Sat, 28 Dec 2019 09:51:26 INFO     Request limit reached on page 12 of segment 13840555. (User api_2)
+Sat, 28 Dec 2019 09:51:26 INFO     User api_2 request-limited, was processing segment 13840555. 606 segments complete.
+Sat, 28 Dec 2019 09:51:26 INFO     Using API User: api_3
+Sat, 28 Dec 2019 09:57:56 INFO     Request limit reached on page 5 of segment 16085176. (User api_3)
+Sat, 28 Dec 2019 09:57:56 INFO     User api_3 request-limited, was processing segment 16085176. 443 segments complete.
+Sat, 28 Dec 2019 09:57:56 INFO     Using API User: api_1
+Sat, 28 Dec 2019 10:06:23 INFO     Request limit reached when determining #pgs of segment 16053043. (User api_1)
+Sat, 28 Dec 2019 10:06:23 INFO     User api_1 request-limited, was processing segment 16053043. 966 segments complete.
+Sat, 28 Dec 2019 10:06:23 INFO     Using API User: api_2
+Sat, 28 Dec 2019 10:12:53 INFO     Request limit reached on page 25 of segment 9194753. (User api_2)
+Sat, 28 Dec 2019 10:12:53 INFO     User api_2 request-limited, was processing segment 9194753. 644 segments complete.
+Sat, 28 Dec 2019 10:12:53 INFO     Using API User: api_3
+Sat, 28 Dec 2019 10:21:38 INFO     Request limit reached on page 48 of segment 7388576. (User api_3)
+Sat, 28 Dec 2019 10:21:38 INFO     User api_3 request-limited, was processing segment 7388576. 469 segments complete.
+Sat, 28 Dec 2019 10:21:38 INFO     Using API User: api_1
+Sat, 28 Dec 2019 10:28:10 INFO     Request limit reached on page 5 of segment 16236102. (User api_1)
+Sat, 28 Dec 2019 10:28:10 INFO     User api_1 request-limited, was processing segment 16236102. 1055 segments complete.
+Sat, 28 Dec 2019 10:28:10 INFO     Using API User: api_2
+Sat, 28 Dec 2019 10:36:47 INFO     Request limit reached on page 2 of segment 4862405. (User api_2)
+Sat, 28 Dec 2019 10:36:47 INFO     User api_2 request-limited, was processing segment 4862405. 679 segments complete.
+Sat, 28 Dec 2019 10:36:47 INFO     Using API User: api_3
+Sat, 28 Dec 2019 10:43:28 INFO     Request limit reached on page 30 of segment 5718605. (User api_3)
+Sat, 28 Dec 2019 10:43:28 INFO     User api_3 request-limited, was processing segment 5718605. 500 segments complete.
+Sat, 28 Dec 2019 10:43:28 INFO     Using API User: api_1
+Sat, 28 Dec 2019 10:46:32 INFO     api_1 completed all segments
+Sat, 28 Dec 2019 10:46:34 INFO     Using API User: api_2
+Sat, 28 Dec 2019 10:52:59 INFO     Request limit reached on page 1 of segment 10789803. (User api_2)
+Sat, 28 Dec 2019 10:52:59 INFO     User api_2 request-limited, was processing segment 10789803. 730 segments complete.
+Sat, 28 Dec 2019 10:52:59 INFO     Using API User: api_3
+Sat, 28 Dec 2019 10:59:27 INFO     Request limit reached on page 4 of segment 3607091. (User api_3)
+Sat, 28 Dec 2019 10:59:27 INFO     User api_3 request-limited, was processing segment 3607091. 528 segments complete.
+Sat, 28 Dec 2019 10:59:27 INFO     Using API User: api_2
+Sat, 28 Dec 2019 10:59:27 INFO     Request limit reached when determining #pgs of segment 10789803. (User api_2)
+Sat, 28 Dec 2019 10:59:27 INFO     User api_2 request-limited, was processing segment 10789803. 730 segments complete.
+Sat, 28 Dec 2019 10:59:27 INFO     Using API User: api_3
+Sat, 28 Dec 2019 10:59:28 INFO     Request limit reached when determining #pgs of segment 3607091. (User api_3)
+Sat, 28 Dec 2019 10:59:28 INFO     User api_3 request-limited, was processing segment 3607091. 528 segments complete.
+Sat, 28 Dec 2019 10:59:28 INFO     Sleeping for 1 minutes until API reset
+Sat, 28 Dec 2019 11:00:28 INFO     Using API User: api_2
+Sat, 28 Dec 2019 11:06:59 INFO     Request limit reached when determining #pgs of segment 7301810. (User api_2)
+Sat, 28 Dec 2019 11:06:59 INFO     User api_2 request-limited, was processing segment 7301810. 784 segments complete.
+Sat, 28 Dec 2019 11:06:59 INFO     Using API User: api_3
+Sat, 28 Dec 2019 11:13:35 INFO     Request limit reached on page 8 of segment 16468501. (User api_3)
+Sat, 28 Dec 2019 11:13:35 INFO     User api_3 request-limited, was processing segment 16468501. 575 segments complete.
+Sat, 28 Dec 2019 11:13:35 INFO     Sleeping for 2 minutes until API reset
+Sat, 28 Dec 2019 11:15:35 INFO     Using API User: api_2
+Sat, 28 Dec 2019 11:22:07 INFO     Request limit reached on page 17 of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 11:22:07 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 11:22:07 INFO     Using API User: api_3
+Sat, 28 Dec 2019 11:28:48 INFO     Request limit reached on page 21 of segment 3554912. (User api_3)
+Sat, 28 Dec 2019 11:28:48 INFO     User api_3 request-limited, was processing segment 3554912. 590 segments complete.
+Sat, 28 Dec 2019 11:28:48 INFO     Sleeping for 2 minutes until API reset
+Sat, 28 Dec 2019 11:30:48 INFO     Using API User: api_2
+Sat, 28 Dec 2019 11:30:49 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 11:30:49 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 11:30:49 INFO     Using API User: api_3
+Sat, 28 Dec 2019 11:36:12 INFO     Request limit reached on page 16 of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 11:36:12 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 11:36:12 INFO     Sleeping for 9 minutes until API reset
+Sat, 28 Dec 2019 11:45:13 INFO     Using API User: api_2
+Sat, 28 Dec 2019 11:45:13 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 11:45:13 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 11:45:13 INFO     Using API User: api_3
+Sat, 28 Dec 2019 11:45:14 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 11:45:14 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 11:45:14 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 12:00:14 INFO     Using API User: api_2
+Sat, 28 Dec 2019 12:00:14 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 12:00:14 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 12:00:14 INFO     Using API User: api_3
+Sat, 28 Dec 2019 12:00:15 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 12:00:15 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 12:00:15 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 12:15:15 INFO     Using API User: api_2
+Sat, 28 Dec 2019 12:15:15 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 12:15:15 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 12:15:15 INFO     Using API User: api_3
+Sat, 28 Dec 2019 12:15:16 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 12:15:16 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 12:15:16 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 12:30:16 INFO     Using API User: api_2
+Sat, 28 Dec 2019 12:30:17 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 12:30:17 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 12:30:17 INFO     Using API User: api_3
+Sat, 28 Dec 2019 12:30:17 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 12:30:17 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 12:30:17 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 12:45:17 INFO     Using API User: api_2
+Sat, 28 Dec 2019 12:45:18 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 12:45:18 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 12:45:18 INFO     Using API User: api_3
+Sat, 28 Dec 2019 12:45:18 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 12:45:18 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 12:45:18 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 13:00:18 INFO     Using API User: api_2
+Sat, 28 Dec 2019 13:00:20 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 13:00:20 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 13:00:20 INFO     Using API User: api_3
+Sat, 28 Dec 2019 13:00:20 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 13:00:20 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 13:00:20 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 13:15:20 INFO     Using API User: api_2
+Sat, 28 Dec 2019 13:15:21 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 13:15:21 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 13:15:21 INFO     Using API User: api_3
+Sat, 28 Dec 2019 13:15:21 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 13:15:21 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 13:15:21 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 13:30:22 INFO     Using API User: api_2
+Sat, 28 Dec 2019 13:30:22 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 13:30:22 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 13:30:22 INFO     Using API User: api_3
+Sat, 28 Dec 2019 13:30:23 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 13:30:23 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 13:30:23 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 13:45:23 INFO     Using API User: api_2
+Sat, 28 Dec 2019 13:45:23 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 13:45:23 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 13:45:23 INFO     Using API User: api_3
+Sat, 28 Dec 2019 13:45:24 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 13:45:24 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 13:45:24 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 14:00:24 INFO     Using API User: api_2
+Sat, 28 Dec 2019 14:00:24 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 14:00:24 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 14:00:24 INFO     Using API User: api_3
+Sat, 28 Dec 2019 14:00:25 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 14:00:25 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 14:00:25 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 14:15:25 INFO     Using API User: api_2
+Sat, 28 Dec 2019 14:15:25 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 14:15:25 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 14:15:25 INFO     Using API User: api_3
+Sat, 28 Dec 2019 14:15:26 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 14:15:26 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 14:15:26 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 14:30:26 INFO     Using API User: api_2
+Sat, 28 Dec 2019 14:30:27 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 14:30:27 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 14:30:27 INFO     Using API User: api_3
+Sat, 28 Dec 2019 14:30:27 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 14:30:27 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 14:30:27 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 14:45:27 INFO     Using API User: api_2
+Sat, 28 Dec 2019 14:45:28 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 14:45:28 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 14:45:28 INFO     Using API User: api_3
+Sat, 28 Dec 2019 14:45:28 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 14:45:28 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 14:45:28 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 15:00:28 INFO     Using API User: api_2
+Sat, 28 Dec 2019 15:00:29 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 15:00:29 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 15:00:29 INFO     Using API User: api_3
+Sat, 28 Dec 2019 15:00:29 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 15:00:29 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 15:00:29 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 15:15:29 INFO     Using API User: api_2
+Sat, 28 Dec 2019 15:15:30 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 15:15:30 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 15:15:30 INFO     Using API User: api_3
+Sat, 28 Dec 2019 15:15:30 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 15:15:30 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 15:15:30 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 15:30:30 INFO     Using API User: api_2
+Sat, 28 Dec 2019 15:30:31 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 15:30:31 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 15:30:31 INFO     Using API User: api_3
+Sat, 28 Dec 2019 15:30:31 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 15:30:31 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 15:30:31 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 15:45:32 INFO     Using API User: api_2
+Sat, 28 Dec 2019 15:45:32 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 15:45:32 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 15:45:32 INFO     Using API User: api_3
+Sat, 28 Dec 2019 15:45:33 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 15:45:33 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 15:45:33 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 16:00:33 INFO     Using API User: api_2
+Sat, 28 Dec 2019 16:00:33 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 16:00:33 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 16:00:33 INFO     Using API User: api_3
+Sat, 28 Dec 2019 16:00:34 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 16:00:34 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 16:00:34 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 16:15:34 INFO     Using API User: api_2
+Sat, 28 Dec 2019 16:15:35 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 16:15:35 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 16:15:35 INFO     Using API User: api_3
+Sat, 28 Dec 2019 16:15:35 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 16:15:35 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 16:15:35 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 16:30:35 INFO     Using API User: api_2
+Sat, 28 Dec 2019 16:30:36 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 16:30:36 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 16:30:36 INFO     Using API User: api_3
+Sat, 28 Dec 2019 16:30:37 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 16:30:37 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 16:30:37 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 16:45:37 INFO     Using API User: api_2
+Sat, 28 Dec 2019 16:45:38 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 16:45:38 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 16:45:38 INFO     Using API User: api_3
+Sat, 28 Dec 2019 16:45:38 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 16:45:38 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 16:45:38 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 17:00:38 INFO     Using API User: api_2
+Sat, 28 Dec 2019 17:00:39 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 17:00:39 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 17:00:39 INFO     Using API User: api_3
+Sat, 28 Dec 2019 17:00:39 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 17:00:39 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 17:00:39 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 17:15:39 INFO     Using API User: api_2
+Sat, 28 Dec 2019 17:15:40 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 17:15:40 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 17:15:40 INFO     Using API User: api_3
+Sat, 28 Dec 2019 17:15:40 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 17:15:40 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 17:15:40 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 17:30:40 INFO     Using API User: api_2
+Sat, 28 Dec 2019 17:30:41 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 17:30:41 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 17:30:41 INFO     Using API User: api_3
+Sat, 28 Dec 2019 17:30:42 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 17:30:42 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 17:30:42 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 17:45:42 INFO     Using API User: api_2
+Sat, 28 Dec 2019 17:45:42 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 17:45:42 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 17:45:42 INFO     Using API User: api_3
+Sat, 28 Dec 2019 17:45:43 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 17:45:43 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 17:45:43 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 18:00:43 INFO     Using API User: api_2
+Sat, 28 Dec 2019 18:00:43 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 18:00:43 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 18:00:43 INFO     Using API User: api_3
+Sat, 28 Dec 2019 18:00:44 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 18:00:44 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 18:00:44 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 18:15:44 INFO     Using API User: api_2
+Sat, 28 Dec 2019 18:15:44 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 18:15:44 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 18:15:44 INFO     Using API User: api_3
+Sat, 28 Dec 2019 18:15:45 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 18:15:45 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 18:15:45 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 18:30:45 INFO     Using API User: api_2
+Sat, 28 Dec 2019 18:30:46 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 18:30:46 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 18:30:46 INFO     Using API User: api_3
+Sat, 28 Dec 2019 18:30:46 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 18:30:46 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 18:30:46 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 18:45:46 INFO     Using API User: api_2
+Sat, 28 Dec 2019 18:45:47 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 18:45:47 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 18:45:47 INFO     Using API User: api_3
+Sat, 28 Dec 2019 18:45:47 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 18:45:47 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 18:45:47 INFO     Sleeping for 15 minutes until API reset
+Sat, 28 Dec 2019 19:00:47 INFO     Using API User: api_2
+Sat, 28 Dec 2019 19:00:48 INFO     Request limit reached when determining #pgs of segment 6725436. (User api_2)
+Sat, 28 Dec 2019 19:00:48 INFO     User api_2 request-limited, was processing segment 6725436. 843 segments complete.
+Sat, 28 Dec 2019 19:00:48 INFO     Using API User: api_3
+Sat, 28 Dec 2019 19:00:48 INFO     Request limit reached when determining #pgs of segment 6490500. (User api_3)
+Sat, 28 Dec 2019 19:00:48 INFO     User api_3 request-limited, was processing segment 6490500. 620 segments complete.
+Sat, 28 Dec 2019 19:00:48 INFO     Sleeping for 15 minutes until API reset

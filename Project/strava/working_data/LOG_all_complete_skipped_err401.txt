@@ -1,0 +1,753 @@
+Sat, 28 Dec 2019 20:21:43 INFO     Starting multi-user building of leaderboards, using 3 API accounts
+Sat, 28 Dec 2019 20:21:43 INFO     Using API User: api_1
+Sat, 28 Dec 2019 20:28:11 INFO     Request limit reached on page 2 of segment 7366989. (User api_1)
+Sat, 28 Dec 2019 20:28:11 INFO     User api_1 request-limited, was processing segment 7366989. 84 segments complete.
+Sat, 28 Dec 2019 20:28:11 INFO     Using API User: api_2
+Sat, 28 Dec 2019 20:36:26 INFO     Request limit reached on page 2 of segment 16691307. (User api_2)
+Sat, 28 Dec 2019 20:36:26 INFO     User api_2 request-limited, was processing segment 16691307. 77 segments complete.
+Sat, 28 Dec 2019 20:36:26 INFO     Using API User: api_3
+Sat, 28 Dec 2019 20:42:53 INFO     Request limit reached on page 5 of segment 8150165. (User api_3)
+Sat, 28 Dec 2019 20:42:53 INFO     User api_3 request-limited, was processing segment 8150165. 56 segments complete.
+Sat, 28 Dec 2019 20:42:53 INFO     Using API User: api_1
+Sat, 28 Dec 2019 20:51:27 INFO     Request limit reached on page 9 of segment 2730527. (User api_1)
+Sat, 28 Dec 2019 20:51:27 INFO     User api_1 request-limited, was processing segment 2730527. 221 segments complete.
+Sat, 28 Dec 2019 20:51:27 INFO     Using API User: api_2
+Sat, 28 Dec 2019 20:57:50 INFO     Request limit reached on page 3 of segment 6787632. (User api_2)
+Sat, 28 Dec 2019 20:57:50 INFO     User api_2 request-limited, was processing segment 6787632. 164 segments complete.
+Sat, 28 Dec 2019 20:57:50 INFO     Using API User: api_3
+Sat, 28 Dec 2019 21:06:33 INFO     Request limit reached on page 24 of segment 15279175. (User api_3)
+Sat, 28 Dec 2019 21:06:33 INFO     User api_3 request-limited, was processing segment 15279175. 105 segments complete.
+Sat, 28 Dec 2019 21:06:33 INFO     Using API User: api_1
+Sat, 28 Dec 2019 21:12:54 INFO     Request limit reached on page 1 of segment 5167602. (User api_1)
+Sat, 28 Dec 2019 21:12:54 INFO     User api_1 request-limited, was processing segment 5167602. 331 segments complete.
+Sat, 28 Dec 2019 21:12:54 INFO     Using API User: api_2
+Sat, 28 Dec 2019 21:21:29 INFO     Request limit reached on page 22 of segment 15767263. (User api_2)
+Sat, 28 Dec 2019 21:21:29 INFO     User api_2 request-limited, was processing segment 15767263. 216 segments complete.
+Sat, 28 Dec 2019 21:21:29 INFO     Using API User: api_3
+Sat, 28 Dec 2019 21:27:53 INFO     Request limit reached on page 2 of segment 17523868. (User api_3)
+Sat, 28 Dec 2019 21:27:53 INFO     User api_3 request-limited, was processing segment 17523868. 145 segments complete.
+Sat, 28 Dec 2019 21:27:53 INFO     Using API User: api_1
+Sat, 28 Dec 2019 21:36:28 INFO     Request limit reached on page 3 of segment 12560811. (User api_1)
+Sat, 28 Dec 2019 21:36:28 INFO     User api_1 request-limited, was processing segment 12560811. 454 segments complete.
+Sat, 28 Dec 2019 21:36:28 INFO     Using API User: api_2
+Sat, 28 Dec 2019 21:43:04 INFO     Request limit reached on page 36 of segment 5704106. (User api_2)
+Sat, 28 Dec 2019 21:43:04 INFO     User api_2 request-limited, was processing segment 5704106. 239 segments complete.
+Sat, 28 Dec 2019 21:43:04 INFO     Using API User: api_3
+Sat, 28 Dec 2019 21:51:35 INFO     Request limit reached on page 8 of segment 15759574. (User api_3)
+Sat, 28 Dec 2019 21:51:35 INFO     User api_3 request-limited, was processing segment 15759574. 206 segments complete.
+Sat, 28 Dec 2019 21:51:35 INFO     Using API User: api_1
+Sat, 28 Dec 2019 21:57:54 INFO     Request limit reached when determining num pgs of segment 8756955. (User api_1)
+Sat, 28 Dec 2019 21:57:54 INFO     User api_1 request-limited, was processing segment 8756955. 532 segments complete.
+Sat, 28 Dec 2019 21:57:54 INFO     Using API User: api_2
+Sat, 28 Dec 2019 22:06:33 INFO     Request limit reached on page 3 of segment 8608241. (User api_2)
+Sat, 28 Dec 2019 22:06:33 INFO     User api_2 request-limited, was processing segment 8608241. 330 segments complete.
+Sat, 28 Dec 2019 22:06:33 INFO     Using API User: api_3
+Sat, 28 Dec 2019 22:12:56 INFO     Request limit reached when determining num pgs of segment 4116322. (User api_3)
+Sat, 28 Dec 2019 22:12:56 INFO     User api_3 request-limited, was processing segment 4116322. 247 segments complete.
+Sat, 28 Dec 2019 22:12:56 INFO     Using API User: api_1
+Sat, 28 Dec 2019 22:21:15 INFO     Request limit reached on page 5 of segment 18318371. (User api_1)
+Sat, 28 Dec 2019 22:21:15 INFO     User api_1 request-limited, was processing segment 18318371. 648 segments complete.
+Sat, 28 Dec 2019 22:21:15 INFO     Using API User: api_2
+Sat, 28 Dec 2019 22:27:39 INFO     Request limit reached on page 27 of segment 7557386. (User api_2)
+Sat, 28 Dec 2019 22:27:39 INFO     User api_2 request-limited, was processing segment 7557386. 406 segments complete.
+Sat, 28 Dec 2019 22:27:39 INFO     Using API User: api_3
+Sat, 28 Dec 2019 22:36:29 INFO     Request limit reached on page 21 of segment 8077159. (User api_3)
+Sat, 28 Dec 2019 22:36:29 INFO     User api_3 request-limited, was processing segment 8077159. 296 segments complete.
+Sat, 28 Dec 2019 22:36:29 INFO     Using API User: api_1
+Sat, 28 Dec 2019 22:42:57 INFO     Request limit reached on page 24 of segment 10050680. (User api_1)
+Sat, 28 Dec 2019 22:42:57 INFO     User api_1 request-limited, was processing segment 10050680. 722 segments complete.
+Sat, 28 Dec 2019 22:42:57 INFO     Using API User: api_2
+Sat, 28 Dec 2019 22:51:22 INFO     Request limit reached on page 9 of segment 9609588. (User api_2)
+Sat, 28 Dec 2019 22:51:22 INFO     User api_2 request-limited, was processing segment 9609588. 460 segments complete.
+Sat, 28 Dec 2019 22:51:22 INFO     Using API User: api_3
+Sat, 28 Dec 2019 22:57:45 INFO     Request limit reached on page 24 of segment 7696761. (User api_3)
+Sat, 28 Dec 2019 22:57:45 INFO     User api_3 request-limited, was processing segment 7696761. 347 segments complete.
+Sat, 28 Dec 2019 22:57:45 INFO     Using API User: api_1
+Sat, 28 Dec 2019 23:06:24 INFO     Request limit reached on page 11 of segment 21068467. (User api_1)
+Sat, 28 Dec 2019 23:06:24 INFO     User api_1 request-limited, was processing segment 21068467. 807 segments complete.
+Sat, 28 Dec 2019 23:06:24 INFO     Using API User: api_2
+Sat, 28 Dec 2019 23:13:00 INFO     Request limit reached on page 9 of segment 12907857. (User api_2)
+Sat, 28 Dec 2019 23:13:00 INFO     User api_2 request-limited, was processing segment 12907857. 522 segments complete.
+Sat, 28 Dec 2019 23:13:00 INFO     Using API User: api_3
+Sat, 28 Dec 2019 23:21:32 INFO     Request limit reached on page 10 of segment 8537528. (User api_3)
+Sat, 28 Dec 2019 23:21:32 INFO     User api_3 request-limited, was processing segment 8537528. 388 segments complete.
+Sat, 28 Dec 2019 23:21:32 INFO     Using API User: api_1
+Sat, 28 Dec 2019 23:27:48 INFO     Request limit reached on page 6 of segment 13245563. (User api_1)
+Sat, 28 Dec 2019 23:27:48 INFO     User api_1 request-limited, was processing segment 13245563. 863 segments complete.
+Sat, 28 Dec 2019 23:27:48 INFO     Using API User: api_2
+Sat, 28 Dec 2019 23:36:16 INFO     Request limit reached on page 37 of segment 8837765. (User api_2)
+Sat, 28 Dec 2019 23:36:16 INFO     User api_2 request-limited, was processing segment 8837765. 605 segments complete.
+Sat, 28 Dec 2019 23:36:16 INFO     Using API User: api_3
+Sat, 28 Dec 2019 23:42:35 INFO     Request limit reached on page 9 of segment 10839059. (User api_3)
+Sat, 28 Dec 2019 23:42:36 INFO     User api_3 request-limited, was processing segment 10839059. 431 segments complete.
+Sat, 28 Dec 2019 23:42:36 INFO     Using API User: api_1
+Sat, 28 Dec 2019 23:51:21 INFO     Request limit reached on page 2 of segment 4858919. (User api_1)
+Sat, 28 Dec 2019 23:51:21 INFO     User api_1 request-limited, was processing segment 4858919. 946 segments complete.
+Sat, 28 Dec 2019 23:51:21 INFO     Using API User: api_2
+Sat, 28 Dec 2019 23:57:41 INFO     Request limit reached on page 8 of segment 9194753. (User api_2)
+Sat, 28 Dec 2019 23:57:41 INFO     User api_2 request-limited, was processing segment 9194753. 644 segments complete.
+Sat, 28 Dec 2019 23:57:41 INFO     Using API User: api_3
+Sun, 29 Dec 2019 00:06:23 INFO     Request limit reached on page 37 of segment 11747763. (User api_3)
+Sun, 29 Dec 2019 00:06:23 INFO     User api_3 request-limited, was processing segment 11747763. 467 segments complete.
+Sun, 29 Dec 2019 00:06:23 INFO     Using API User: api_1
+Sun, 29 Dec 2019 00:12:39 INFO     Request limit reached on page 10 of segment 13031572. (User api_1)
+Sun, 29 Dec 2019 00:12:39 INFO     User api_1 request-limited, was processing segment 13031572. 1049 segments complete.
+Sun, 29 Dec 2019 00:12:39 INFO     Using API User: api_2
+Sun, 29 Dec 2019 00:21:35 INFO     Request limit reached on page 1 of segment 8564609. (User api_2)
+Sun, 29 Dec 2019 00:21:35 INFO     User api_2 request-limited, was processing segment 8564609. 681 segments complete.
+Sun, 29 Dec 2019 00:21:35 INFO     Using API User: api_3
+Sun, 29 Dec 2019 00:27:51 INFO     Request limit reached on page 17 of segment 6840935. (User api_3)
+Sun, 29 Dec 2019 00:27:51 INFO     User api_3 request-limited, was processing segment 6840935. 498 segments complete.
+Sun, 29 Dec 2019 00:27:51 INFO     Using API User: api_1
+Sun, 29 Dec 2019 00:31:54 INFO     ******************api_1 completed all segments ************************
+Sun, 29 Dec 2019 00:31:56 INFO     Using API User: api_2
+Sun, 29 Dec 2019 00:38:09 INFO     Request limit reached on page 9 of segment 6373545. (User api_2)
+Sun, 29 Dec 2019 00:38:09 INFO     User api_2 request-limited, was processing segment 6373545. 736 segments complete.
+Sun, 29 Dec 2019 00:38:09 INFO     Using API User: api_3
+Sun, 29 Dec 2019 00:44:26 INFO     Request limit reached on page 11 of segment 9247340. (User api_3)
+Sun, 29 Dec 2019 00:44:26 INFO     User api_3 request-limited, was processing segment 9247340. 523 segments complete.
+Sun, 29 Dec 2019 00:44:26 INFO     Using API User: api_2
+Sun, 29 Dec 2019 00:44:27 INFO     Request limit reached when determining num pgs of segment 6373545. (User api_2)
+Sun, 29 Dec 2019 00:44:27 INFO     User api_2 request-limited, was processing segment 6373545. 736 segments complete.
+Sun, 29 Dec 2019 00:44:27 INFO     Using API User: api_3
+Sun, 29 Dec 2019 00:44:27 INFO     Request limit reached when determining num pgs of segment 9247340. (User api_3)
+Sun, 29 Dec 2019 00:44:27 INFO     User api_3 request-limited, was processing segment 9247340. 523 segments complete.
+Sun, 29 Dec 2019 00:44:27 INFO     Sleeping for 1 minutes until API reset
+Sun, 29 Dec 2019 00:45:27 INFO     Using API User: api_2
+Sun, 29 Dec 2019 00:45:29 INFO     User api_2, segment 6373545; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:29 INFO     User api_2, segment 4469805; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:30 INFO     User api_2, segment 3874980; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:30 INFO     User api_2, segment 2256720; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:31 INFO     User api_2, segment 1923157; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:31 INFO     User api_2, segment 3096051; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:32 INFO     User api_2, segment 4066432; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:32 INFO     User api_2, segment 20600174; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:33 INFO     User api_2, segment 3747095; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:33 INFO     User api_2, segment 21891630; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:34 INFO     User api_2, segment 11608356; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:34 INFO     User api_2, segment 8548024; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:35 INFO     User api_2, segment 2299692; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:35 INFO     User api_2, segment 17634085; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:36 INFO     User api_2, segment 13482431; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:36 INFO     User api_2, segment 17661795; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:37 INFO     User api_2, segment 16424533; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:37 INFO     User api_2, segment 1418185; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:38 INFO     User api_2, segment 2175369; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:39 INFO     User api_2, segment 12664238; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:39 INFO     User api_2, segment 8548973; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:40 INFO     User api_2, segment 8541386; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:40 INFO     User api_2, segment 8541397; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:41 INFO     User api_2, segment 7167533; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:41 INFO     User api_2, segment 10905329; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:42 INFO     User api_2, segment 14069189; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:42 INFO     User api_2, segment 6967546; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:43 INFO     User api_2, segment 7321800; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:43 INFO     User api_2, segment 9476046; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:44 INFO     User api_2, segment 10753957; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:44 INFO     User api_2, segment 6373657; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:45 INFO     User api_2, segment 7303548; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:45 INFO     User api_2, segment 16126187; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:46 INFO     User api_2, segment 13212720; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:46 INFO     User api_2, segment 20426226; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:47 INFO     User api_2, segment 16764730; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:47 INFO     User api_2, segment 22257470; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:48 INFO     User api_2, segment 22257431; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:48 INFO     User api_2, segment 22257465; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:49 INFO     User api_2, segment 22257480; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:49 INFO     User api_2, segment 16789308; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:50 INFO     User api_2, segment 14461312; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:50 INFO     User api_2, segment 11880649; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:51 INFO     User api_2, segment 6010081; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:51 INFO     User api_2, segment 7273444; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:52 INFO     User api_2, segment 7272873; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:52 INFO     User api_2, segment 6580357; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:53 INFO     User api_2, segment 7301393; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:53 INFO     User api_2, segment 7301810; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:54 INFO     User api_2, segment 2531296; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:54 INFO     User api_2, segment 13865599; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:55 INFO     User api_2, segment 20999609; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:55 INFO     User api_2, segment 7029409; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:56 INFO     User api_2, segment 6949296; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:57 INFO     User api_2, segment 18968987; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:57 INFO     User api_2, segment 7289718; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:58 INFO     User api_2, segment 15210573; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:58 INFO     User api_2, segment 12888167; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:59 INFO     User api_2, segment 20783315; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:45:59 INFO     User api_2, segment 20783333; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:00 INFO     User api_2, segment 19929460; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:00 INFO     User api_2, segment 6945918; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:01 INFO     User api_2, segment 8742640; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:01 INFO     User api_2, segment 3850321; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:02 INFO     User api_2, segment 8365315; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:02 INFO     User api_2, segment 3790034; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:03 INFO     User api_2, segment 7370012; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:03 INFO     User api_2, segment 7623899; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:04 INFO     User api_2, segment 4333964; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:04 INFO     User api_2, segment 7861057; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:05 INFO     User api_2, segment 16376418; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:05 INFO     User api_2, segment 10281196; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:06 INFO     User api_2, segment 18427745; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:07 INFO     User api_2, segment 7094084; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:07 INFO     User api_2, segment 14228659; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:08 INFO     User api_2, segment 2472531; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:08 INFO     User api_2, segment 7064024; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:09 INFO     User api_2, segment 11453924; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:09 INFO     User api_2, segment 1686706; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:10 INFO     User api_2, segment 11018506; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:10 INFO     User api_2, segment 4902018; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:11 INFO     User api_2, segment 989923; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:11 INFO     User api_2, segment 9491676; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:12 INFO     User api_2, segment 4406908; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:12 INFO     User api_2, segment 6859323; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:13 INFO     User api_2, segment 13865864; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:13 INFO     User api_2, segment 9124497; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:14 INFO     User api_2, segment 9491661; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:14 INFO     User api_2, segment 4666678; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:15 INFO     User api_2, segment 15092894; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:15 INFO     User api_2, segment 4621826; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:16 INFO     User api_2, segment 1430067; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:16 INFO     User api_2, segment 20484747; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:17 INFO     User api_2, segment 7077610; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:17 INFO     User api_2, segment 15285102; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:18 INFO     User api_2, segment 6680212; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:18 INFO     User api_2, segment 2024209; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:19 INFO     User api_2, segment 7046044; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:19 INFO     User api_2, segment 8417775; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:20 INFO     User api_2, segment 6844812; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:20 INFO     User api_2, segment 7362841; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:21 INFO     User api_2, segment 2322701; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:22 INFO     User api_2, segment 3836266; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:22 INFO     User api_2, segment 1565108; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:23 INFO     User api_2, segment 1518919; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:23 INFO     User api_2, segment 1440730; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:24 INFO     User api_2, segment 1784098; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:24 INFO     User api_2, segment 6725436; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:25 INFO     User api_2, segment 12452955; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:25 INFO     User api_2, segment 9578952; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:26 INFO     User api_2, segment 6599294; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:26 INFO     User api_2, segment 4235390; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:27 INFO     User api_2, segment 11590853; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:27 INFO     User api_2, segment 5516622; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:28 INFO     User api_2, segment 6392939; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:28 INFO     User api_2, segment 8297309; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:29 INFO     User api_2, segment 12303068; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:29 INFO     User api_2, segment 11139016; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:30 INFO     User api_2, segment 14734662; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:30 INFO     User api_2, segment 12063960; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:31 INFO     User api_2, segment 4968605; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:31 INFO     User api_2, segment 20154329; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:32 INFO     User api_2, segment 1111460; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:32 INFO     User api_2, segment 8173186; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:33 INFO     User api_2, segment 4668403; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:33 INFO     User api_2, segment 2490683; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:34 INFO     User api_2, segment 7466108; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:34 INFO     User api_2, segment 4958804; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:35 INFO     User api_2, segment 11761865; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:35 INFO     User api_2, segment 7714399; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:36 INFO     User api_2, segment 18384187; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:36 INFO     User api_2, segment 21190693; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:37 INFO     User api_2, segment 9984568; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:37 INFO     User api_2, segment 3866038; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:38 INFO     User api_2, segment 4297863; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:38 INFO     User api_2, segment 9872756; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:39 INFO     User api_2, segment 5115019; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:39 INFO     User api_2, segment 10968572; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:40 INFO     User api_2, segment 2126869; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:40 INFO     User api_2, segment 5310790; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:41 INFO     User api_2, segment 6343543; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:41 INFO     User api_2, segment 10268421; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:42 INFO     User api_2, segment 2254546; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:42 INFO     User api_2, segment 2207262; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:43 INFO     User api_2, segment 6895160; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:43 INFO     User api_2, segment 3676635; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:44 INFO     User api_2, segment 17239042; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:44 INFO     User api_2, segment 14675241; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:45 INFO     User api_2, segment 10441237; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:45 INFO     User api_2, segment 8365261; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:46 INFO     User api_2, segment 3383589; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:47 INFO     User api_2, segment 9251435; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:47 INFO     User api_2, segment 7345688; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:48 INFO     User api_2, segment 9744915; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:48 INFO     User api_2, segment 10113125; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:49 INFO     User api_2, segment 9704558; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:49 INFO     User api_2, segment 17494488; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:50 INFO     User api_2, segment 8565065; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:50 INFO     User api_2, segment 2130129; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:51 INFO     User api_2, segment 6755498; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:51 INFO     User api_2, segment 16340447; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:52 INFO     User api_2, segment 10790976; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:52 INFO     User api_2, segment 8537373; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:53 INFO     User api_2, segment 2249868; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:53 INFO     User api_2, segment 2449109; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:54 INFO     User api_2, segment 12062171; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:54 INFO     User api_2, segment 20058290; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:55 INFO     User api_2, segment 1983225; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:55 INFO     User api_2, segment 11341722; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:56 INFO     User api_2, segment 18618093; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:56 INFO     User api_2, segment 1357407; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:57 INFO     User api_2, segment 6767294; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:57 INFO     User api_2, segment 5969357; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:58 INFO     User api_2, segment 4738815; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:58 INFO     User api_2, segment 5410411; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:59 INFO     User api_2, segment 4920704; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:46:59 INFO     User api_2, segment 12793149; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:00 INFO     User api_2, segment 15761193; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:01 INFO     User api_2, segment 4738613; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:01 INFO     User api_2, segment 2256679; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:02 INFO     User api_2, segment 7284891; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:02 INFO     User api_2, segment 19342875; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:03 INFO     User api_2, segment 5295271; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:03 INFO     User api_2, segment 10568904; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:04 INFO     User api_2, segment 10183829; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:04 INFO     User api_2, segment 15262786; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:05 INFO     User api_2, segment 10183887; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:05 INFO     User api_2, segment 10831709; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:06 INFO     User api_2, segment 21318677; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:06 INFO     User api_2, segment 1893149; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:07 INFO     User api_2, segment 9570180; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:07 INFO     User api_2, segment 3914102; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:08 INFO     User api_2, segment 4440228; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:08 INFO     User api_2, segment 21428356; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:09 INFO     User api_2, segment 3914021; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:09 INFO     User api_2, segment 10000006; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:10 INFO     User api_2, segment 2256753; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:10 INFO     User api_2, segment 7275172; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:11 INFO     User api_2, segment 12043744; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:11 INFO     User api_2, segment 4742303; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:12 INFO     User api_2, segment 4459607; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:12 INFO     User api_2, segment 15178756; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:13 INFO     User api_2, segment 1149843; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:13 INFO     User api_2, segment 9724135; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:14 INFO     User api_2, segment 14743123; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:14 INFO     User api_2, segment 7621290; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:15 INFO     User api_2, segment 9567865; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:15 INFO     User api_2, segment 14141578; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:17 INFO     User api_2, segment 17235322; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:17 INFO     User api_2, segment 2050489; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:18 INFO     User api_2, segment 2149022; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:18 INFO     User api_2, segment 4691628; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:19 INFO     User api_2, segment 21800858; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:19 INFO     User api_2, segment 17944121; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:20 INFO     User api_2, segment 16131507; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:20 INFO     User api_2, segment 17235386; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:21 INFO     User api_2, segment 5246163; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:22 INFO     User api_2, segment 6967234; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:22 INFO     User api_2, segment 4347906; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:23 INFO     User api_2, segment 4682580; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:23 INFO     User api_2, segment 12372077; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:24 INFO     User api_2, segment 5403991; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:24 INFO     User api_2, segment 12647130; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:25 INFO     User api_2, segment 1604262; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:25 INFO     User api_2, segment 13790186; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:26 INFO     User api_2, segment 1689769; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:26 INFO     User api_2, segment 17665447; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:27 INFO     User api_2, segment 4817721; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:27 INFO     User api_2, segment 19872077; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:28 INFO     User api_2, segment 4243597; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:28 INFO     User api_2, segment 15514406; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:29 INFO     User api_2, segment 10734224; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:29 INFO     User api_2, segment 14338261; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:30 INFO     User api_2, segment 7402937; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:30 INFO     User api_2, segment 9733811; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:31 INFO     User api_2, segment 1649934; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:31 INFO     User api_2, segment 9289445; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:33 INFO     User api_2, segment 18975519; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:33 INFO     User api_2, segment 5678609; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:34 INFO     User api_2, segment 12757475; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:34 INFO     User api_2, segment 6782237; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:35 INFO     User api_2, segment 4867399; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:36 INFO     User api_2, segment 7521879; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:36 INFO     User api_2, segment 12088030; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:37 INFO     User api_2, segment 1737265; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:37 INFO     User api_2, segment 8447384; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:38 INFO     User api_2, segment 17110403; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:38 INFO     User api_2, segment 4630736; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:39 INFO     User api_2, segment 5312423; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:40 INFO     User api_2, segment 9528987; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:41 INFO     User api_2, segment 9708721; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:41 INFO     User api_2, segment 6757762; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:42 INFO     User api_2, segment 7915270; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:42 INFO     User api_2, segment 12901010; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:43 INFO     User api_2, segment 5092774; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:43 INFO     User api_2, segment 4460211; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:44 INFO     User api_2, segment 9240330; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:44 INFO     User api_2, segment 7350636; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:45 INFO     User api_2, segment 5206404; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:45 INFO     User api_2, segment 15045228; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:46 INFO     User api_2, segment 9936651; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:46 INFO     User api_2, segment 12125131; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:47 INFO     User api_2, segment 11629211; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:47 INFO     User api_2, segment 3732762; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:48 INFO     User api_2, segment 9855314; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:49 INFO     User api_2, segment 1516087; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:49 INFO     User api_2, segment 13881152; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:50 INFO     User api_2, segment 5276368; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:50 INFO     User api_2, segment 12989697; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:51 INFO     User api_2, segment 5935912; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:51 INFO     User api_2, segment 8194261; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:52 INFO     User api_2, segment 1212806; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:52 INFO     User api_2, segment 1212827; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:53 INFO     User api_2, segment 7121074; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:53 INFO     User api_2, segment 5819985; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:54 INFO     User api_2, segment 4286889; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:54 INFO     User api_2, segment 13000862; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:55 INFO     User api_2, segment 16304752; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:55 INFO     User api_2, segment 9841791; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:56 INFO     User api_2, segment 10811819; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:56 INFO     User api_2, segment 20055590; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:57 INFO     User api_2, segment 7370861; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:57 INFO     User api_2, segment 7725244; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:58 INFO     User api_2, segment 21181919; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:58 INFO     User api_2, segment 11111926; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:59 INFO     User api_2, segment 7435980; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:47:59 INFO     User api_2, segment 7391751; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:00 INFO     User api_2, segment 7895511; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:00 INFO     User api_2, segment 2004299; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:01 INFO     User api_2, segment 4396976; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:01 INFO     User api_2, segment 6943490; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:02 INFO     User api_2, segment 20353076; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:03 INFO     User api_2, segment 2214446; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:03 INFO     User api_2, segment 7016999; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:04 INFO     User api_2, segment 19105044; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:04 INFO     User api_2, segment 12416685; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:05 INFO     User api_2, segment 15164179; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:05 INFO     User api_2, segment 7576833; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:06 INFO     User api_2, segment 4527763; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:06 INFO     User api_2, segment 1635301; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:07 INFO     User api_2, segment 7105080; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:07 INFO     User api_2, segment 16783476; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:08 INFO     User api_2, segment 15765323; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:08 INFO     User api_2, segment 4240310; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:09 INFO     User api_2, segment 7998782; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:09 INFO     User api_2, segment 3740093; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:10 INFO     User api_2, segment 6777560; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:10 INFO     User api_2, segment 7663764; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:11 INFO     User api_2, segment 19185855; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:11 INFO     User api_2, segment 1746731; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:12 INFO     User api_2, segment 8534777; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:12 INFO     User api_2, segment 3752856; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:13 INFO     User api_2, segment 19985071; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:13 INFO     User api_2, segment 1891473; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:14 INFO     User api_2, segment 1791635; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:14 INFO     User api_2, segment 2796039; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:15 INFO     User api_2, segment 2170414; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:15 INFO     User api_2, segment 13515653; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:16 INFO     User api_2, segment 7647063; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:16 INFO     User api_2, segment 9183846; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:17 INFO     User api_2, segment 10441459; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:17 INFO     User api_2, segment 3767977; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:18 INFO     User api_2, segment 7427853; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:18 INFO     User api_2, segment 8539004; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:19 INFO     User api_2, segment 7549031; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:19 INFO     User api_2, segment 12602796; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:20 INFO     User api_2, segment 13381006; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:20 INFO     User api_2, segment 13961647; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:21 INFO     User api_2, segment 3752769; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:22 INFO     User api_2, segment 9608774; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:22 INFO     User api_2, segment 1511616; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:23 INFO     User api_2, segment 17825058; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:23 INFO     User api_2, segment 11538990; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:24 INFO     User api_2, segment 17884874; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:24 INFO     User api_2, segment 15880143; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:25 INFO     User api_2, segment 15093186; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:25 INFO     User api_2, segment 5002880; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:26 INFO     User api_2, segment 10948287; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:26 INFO     User api_2, segment 6442954; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:27 INFO     User api_2, segment 12519721; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:27 INFO     User api_2, segment 12519736; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:28 INFO     User api_2, segment 2332081; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:28 INFO     User api_2, segment 20873747; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:29 INFO     User api_2, segment 10193849; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:29 INFO     User api_2, segment 10430099; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:30 INFO     User api_2, segment 18667220; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:30 INFO     User api_2, segment 15288145; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:31 INFO     User api_2, segment 10628461; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:31 INFO     User api_2, segment 1175728; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:32 INFO     User api_2, segment 5366545; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:32 INFO     User api_2, segment 9033955; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:33 INFO     User api_2, segment 1364483; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 00:48:33 INFO     ******************api_2 completed all segments ************************
+Sun, 29 Dec 2019 00:48:35 INFO     Using API User: api_3
+Sun, 29 Dec 2019 00:55:08 INFO     Request limit reached on page 3 of segment 5691271. (User api_3)
+Sun, 29 Dec 2019 00:55:08 INFO     User api_3 request-limited, was processing segment 5691271. 571 segments complete.
+Sun, 29 Dec 2019 00:55:08 INFO     Sleeping for 5 minutes until API reset
+Sun, 29 Dec 2019 01:00:08 INFO     Using API User: api_3
+Sun, 29 Dec 2019 01:06:28 INFO     Request limit reached on page 12 of segment 4458810. (User api_3)
+Sun, 29 Dec 2019 01:06:28 INFO     User api_3 request-limited, was processing segment 4458810. 587 segments complete.
+Sun, 29 Dec 2019 01:06:28 INFO     Sleeping for 9 minutes until API reset
+Sun, 29 Dec 2019 01:15:28 INFO     Using API User: api_3
+Sun, 29 Dec 2019 01:21:42 INFO     Request limit reached on page 16 of segment 4583900. (User api_3)
+Sun, 29 Dec 2019 01:21:42 INFO     User api_3 request-limited, was processing segment 4583900. 621 segments complete.
+Sun, 29 Dec 2019 01:21:42 INFO     Sleeping for 9 minutes until API reset
+Sun, 29 Dec 2019 01:30:42 INFO     Using API User: api_3
+Sun, 29 Dec 2019 01:37:17 INFO     Request limit reached on page 1 of segment 3709567. (User api_3)
+Sun, 29 Dec 2019 01:37:17 INFO     User api_3 request-limited, was processing segment 3709567. 665 segments complete.
+Sun, 29 Dec 2019 01:37:17 INFO     Sleeping for 8 minutes until API reset
+Sun, 29 Dec 2019 01:45:17 INFO     Using API User: api_3
+Sun, 29 Dec 2019 01:51:28 INFO     Request limit reached on page 55 of segment 5048696. (User api_3)
+Sun, 29 Dec 2019 01:51:28 INFO     User api_3 request-limited, was processing segment 5048696. 690 segments complete.
+Sun, 29 Dec 2019 01:51:28 INFO     Sleeping for 9 minutes until API reset
+Sun, 29 Dec 2019 02:00:28 INFO     Using API User: api_3
+Sun, 29 Dec 2019 02:06:48 INFO     Request limit reached on page 11 of segment 14551327. (User api_3)
+Sun, 29 Dec 2019 02:06:48 INFO     User api_3 request-limited, was processing segment 14551327. 729 segments complete.
+Sun, 29 Dec 2019 02:06:48 INFO     Sleeping for 9 minutes until API reset
+Sun, 29 Dec 2019 02:15:48 INFO     Using API User: api_3
+Sun, 29 Dec 2019 02:22:12 INFO     Request limit reached on page 7 of segment 10903565. (User api_3)
+Sun, 29 Dec 2019 02:22:12 INFO     User api_3 request-limited, was processing segment 10903565. 790 segments complete.
+Sun, 29 Dec 2019 02:22:12 INFO     Sleeping for 8 minutes until API reset
+Sun, 29 Dec 2019 02:30:12 INFO     Using API User: api_3
+Sun, 29 Dec 2019 02:36:27 INFO     User api_3, segment 12231153; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:27 INFO     User api_3, segment 10969056; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:28 INFO     User api_3, segment 10974394; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:29 INFO     User api_3, segment 3649018; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:29 INFO     User api_3, segment 3908120; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:30 INFO     User api_3, segment 6863949; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:30 INFO     User api_3, segment 22104944; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:31 INFO     User api_3, segment 17995081; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:31 INFO     User api_3, segment 20576643; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:32 INFO     User api_3, segment 9683084; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:32 INFO     User api_3, segment 4496039; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:33 INFO     User api_3, segment 3930141; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:33 INFO     User api_3, segment 11084519; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:34 INFO     User api_3, segment 9973749; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:34 INFO     User api_3, segment 7445346; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:35 INFO     User api_3, segment 10355411; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:35 INFO     User api_3, segment 1121373; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:36 INFO     User api_3, segment 15017138; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:36 INFO     User api_3, segment 8713485; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:37 INFO     User api_3, segment 10299037; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:37 INFO     User api_3, segment 14327380; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:38 INFO     User api_3, segment 8236930; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:38 INFO     User api_3, segment 7184893; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:39 INFO     User api_3, segment 9804066; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:39 INFO     User api_3, segment 2470832; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:40 INFO     User api_3, segment 13195610; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:40 INFO     User api_3, segment 21574591; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:41 INFO     User api_3, segment 20492414; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:41 INFO     User api_3, segment 17248340; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:42 INFO     User api_3, segment 5223851; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:42 INFO     User api_3, segment 20407973; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:43 INFO     User api_3, segment 15546606; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:44 INFO     User api_3, segment 9059368; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:45 INFO     User api_3, segment 17181281; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:45 INFO     User api_3, segment 14626090; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:46 INFO     User api_3, segment 7064694; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:46 INFO     User api_3, segment 7688672; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:47 INFO     User api_3, segment 15102012; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:48 INFO     User api_3, segment 1256331; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:48 INFO     User api_3, segment 1242166; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:49 INFO     User api_3, segment 4496787; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:50 INFO     User api_3, segment 19281623; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:51 INFO     User api_3, segment 12571561; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:51 INFO     User api_3, segment 6842640; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:52 INFO     User api_3, segment 18134361; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:52 INFO     User api_3, segment 5538249; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:53 INFO     User api_3, segment 8021960; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:53 INFO     User api_3, segment 9566863; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:54 INFO     User api_3, segment 6000666; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:54 INFO     User api_3, segment 2284113; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:55 INFO     User api_3, segment 13740012; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:55 INFO     User api_3, segment 18838644; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:56 INFO     User api_3, segment 9814563; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:56 INFO     User api_3, segment 15819364; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:57 INFO     User api_3, segment 15320806; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:57 INFO     User api_3, segment 17192374; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:58 INFO     User api_3, segment 19080724; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:58 INFO     User api_3, segment 14499882; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:36:59 INFO     User api_3, segment 9576459; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:00 INFO     User api_3, segment 17512897; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:00 INFO     User api_3, segment 3978220; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:01 INFO     User api_3, segment 4257129; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:01 INFO     User api_3, segment 16537744; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:02 INFO     User api_3, segment 7337500; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:02 INFO     User api_3, segment 17248406; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:03 INFO     User api_3, segment 4005598; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:03 INFO     User api_3, segment 4318087; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:04 INFO     User api_3, segment 4236580; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:04 INFO     User api_3, segment 5728420; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:05 INFO     User api_3, segment 16537718; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:05 INFO     User api_3, segment 7184045; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:06 INFO     User api_3, segment 5709308; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:06 INFO     User api_3, segment 4320911; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:07 INFO     User api_3, segment 3540316; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:07 INFO     User api_3, segment 10329378; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:08 INFO     User api_3, segment 5527606; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:08 INFO     User api_3, segment 20911038; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:09 INFO     User api_3, segment 7335129; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:09 INFO     User api_3, segment 7204676; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:10 INFO     User api_3, segment 19224765; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:10 INFO     User api_3, segment 3649029; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:11 INFO     User api_3, segment 21682622; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:11 INFO     User api_3, segment 4472332; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:12 INFO     User api_3, segment 1557410; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:12 INFO     User api_3, segment 2326084; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:13 INFO     User api_3, segment 1597877; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:13 INFO     User api_3, segment 7077660; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:14 INFO     User api_3, segment 4684882; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:14 INFO     User api_3, segment 17286486; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:15 INFO     User api_3, segment 7743467; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:16 INFO     User api_3, segment 1120768; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:16 INFO     User api_3, segment 1198643; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:17 INFO     User api_3, segment 5649282; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:17 INFO     User api_3, segment 4543892; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:18 INFO     User api_3, segment 8716501; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:18 INFO     User api_3, segment 10403392; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:19 INFO     User api_3, segment 18632702; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:19 INFO     User api_3, segment 7349788; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:20 INFO     User api_3, segment 11290752; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:20 INFO     User api_3, segment 10293438; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:21 INFO     User api_3, segment 10764147; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:21 INFO     User api_3, segment 2208476; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:22 INFO     User api_3, segment 16045497; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:22 INFO     User api_3, segment 15065299; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:23 INFO     User api_3, segment 5633431; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:23 INFO     User api_3, segment 5374435; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:24 INFO     User api_3, segment 10764136; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:24 INFO     User api_3, segment 7617333; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:25 INFO     User api_3, segment 12329106; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:25 INFO     User api_3, segment 10764173; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:26 INFO     User api_3, segment 6785327; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:26 INFO     User api_3, segment 19619234; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:27 INFO     User api_3, segment 3806354; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:27 INFO     User api_3, segment 1822453; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:28 INFO     User api_3, segment 7008092; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:28 INFO     User api_3, segment 2001119; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:29 INFO     User api_3, segment 13035424; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:29 INFO     User api_3, segment 5731075; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:30 INFO     User api_3, segment 7234131; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:31 INFO     User api_3, segment 4279778; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:31 INFO     User api_3, segment 5182325; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:32 INFO     User api_3, segment 6835370; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:32 INFO     User api_3, segment 8442924; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:33 INFO     User api_3, segment 14360536; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:33 INFO     User api_3, segment 4880047; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:34 INFO     User api_3, segment 21243095; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:34 INFO     User api_3, segment 8666746; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:35 INFO     User api_3, segment 19281593; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:35 INFO     User api_3, segment 19281661; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:36 INFO     User api_3, segment 6483972; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:36 INFO     User api_3, segment 10133000; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:37 INFO     User api_3, segment 12654487; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:37 INFO     User api_3, segment 6181241; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:38 INFO     User api_3, segment 12654449; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:38 INFO     User api_3, segment 17887991; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:39 INFO     User api_3, segment 12550424; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:39 INFO     User api_3, segment 14826261; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:40 INFO     User api_3, segment 6838335; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:40 INFO     User api_3, segment 18102731; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:41 INFO     User api_3, segment 14964385; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:41 INFO     User api_3, segment 8210884; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:42 INFO     User api_3, segment 19080678; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:42 INFO     User api_3, segment 6907967; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:43 INFO     User api_3, segment 7358256; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:44 INFO     User api_3, segment 8275884; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:44 INFO     User api_3, segment 18800157; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:45 INFO     User api_3, segment 16768776; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:45 INFO     User api_3, segment 11267537; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:46 INFO     User api_3, segment 18800205; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:46 INFO     User api_3, segment 22001828; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:47 INFO     User api_3, segment 22001496; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:47 INFO     User api_3, segment 1757854; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:48 INFO     User api_3, segment 1757864; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:48 INFO     User api_3, segment 14457137; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:49 INFO     User api_3, segment 8204807; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:49 INFO     User api_3, segment 3567771; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:50 INFO     User api_3, segment 7274634; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:50 INFO     User api_3, segment 4870038; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:51 INFO     User api_3, segment 3480264; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:51 INFO     User api_3, segment 5381095; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:52 INFO     User api_3, segment 7273535; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:52 INFO     User api_3, segment 14754217; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:53 INFO     User api_3, segment 13056150; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:53 INFO     User api_3, segment 13056097; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:54 INFO     User api_3, segment 20307040; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:54 INFO     User api_3, segment 3948041; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:55 INFO     User api_3, segment 3121233; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:55 INFO     User api_3, segment 6349422; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:56 INFO     User api_3, segment 7222440; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:57 INFO     User api_3, segment 7108853; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:57 INFO     User api_3, segment 5094293; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:58 INFO     User api_3, segment 10253425; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:58 INFO     User api_3, segment 19167368; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:59 INFO     User api_3, segment 7262679; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:37:59 INFO     User api_3, segment 9717471; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:00 INFO     User api_3, segment 4068048; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:00 INFO     User api_3, segment 12906245; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:01 INFO     User api_3, segment 4579987; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:01 INFO     User api_3, segment 6286654; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:02 INFO     User api_3, segment 2449411; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:02 INFO     User api_3, segment 9690565; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:03 INFO     User api_3, segment 5343487; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:03 INFO     User api_3, segment 7558230; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:04 INFO     User api_3, segment 20873765; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:04 INFO     User api_3, segment 5673281; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:05 INFO     User api_3, segment 6277285; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:05 INFO     User api_3, segment 6569621; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:06 INFO     User api_3, segment 6277267; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:06 INFO     User api_3, segment 12011473; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:07 INFO     User api_3, segment 6286708; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:07 INFO     User api_3, segment 3511498; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:08 INFO     User api_3, segment 4397256; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:08 INFO     User api_3, segment 3607104; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:09 INFO     User api_3, segment 15241932; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:09 INFO     User api_3, segment 5312159; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:10 INFO     User api_3, segment 1728754; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:10 INFO     User api_3, segment 1605744; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:11 INFO     User api_3, segment 2684464; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:11 INFO     User api_3, segment 5131755; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:12 INFO     User api_3, segment 1743170; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:12 INFO     User api_3, segment 20296152; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:13 INFO     User api_3, segment 2042371; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:14 INFO     User api_3, segment 2202793; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:14 INFO     User api_3, segment 14842325; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:14 INFO     User api_3, segment 20297963; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:15 INFO     User api_3, segment 2837423; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:15 INFO     User api_3, segment 21688311; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:16 INFO     User api_3, segment 7936631; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:16 INFO     User api_3, segment 7573142; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:17 INFO     User api_3, segment 14929770; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:18 INFO     User api_3, segment 15151780; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:18 INFO     User api_3, segment 14726593; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:19 INFO     User api_3, segment 6787589; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:19 INFO     User api_3, segment 7009557; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:20 INFO     User api_3, segment 11808717; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:20 INFO     User api_3, segment 10466366; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:21 INFO     User api_3, segment 15370581; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:21 INFO     User api_3, segment 6678337; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:22 INFO     User api_3, segment 5006348; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:22 INFO     User api_3, segment 12603895; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:23 INFO     User api_3, segment 5562584; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:23 INFO     User api_3, segment 20559434; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:24 INFO     User api_3, segment 8052722; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:24 INFO     User api_3, segment 5861033; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:25 INFO     User api_3, segment 13439982; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:25 INFO     User api_3, segment 3560191; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:26 INFO     User api_3, segment 2631531; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:26 INFO     User api_3, segment 18190264; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:27 INFO     User api_3, segment 13069480; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:27 INFO     User api_3, segment 10773431; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:28 INFO     User api_3, segment 18228803; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:28 INFO     User api_3, segment 16706738; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:29 INFO     User api_3, segment 3573249; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:29 INFO     User api_3, segment 14785482; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:30 INFO     User api_3, segment 12032505; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:30 INFO     User api_3, segment 15334674; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:31 INFO     User api_3, segment 10062233; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:31 INFO     User api_3, segment 5286008; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:32 INFO     User api_3, segment 3540408; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:33 INFO     User api_3, segment 10490100; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:33 INFO     User api_3, segment 12278669; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:34 INFO     User api_3, segment 3569879; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:34 INFO     User api_3, segment 3506028; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:35 INFO     User api_3, segment 11578289; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:35 INFO     User api_3, segment 21477351; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:36 INFO     User api_3, segment 5644702; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:36 INFO     User api_3, segment 6260272; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:37 INFO     User api_3, segment 21774478; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:37 INFO     User api_3, segment 4865227; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:38 INFO     User api_3, segment 20031717; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:38 INFO     User api_3, segment 11320126; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:39 INFO     User api_3, segment 9013703; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:39 INFO     User api_3, segment 14370337; returned Strava API Status: 401 Unauthorized. Skipping segment
+Sun, 29 Dec 2019 02:38:39 INFO     ******************api_3 completed all segments ************************
+Sun, 29 Dec 2019 02:38:43 INFO     All users complete
