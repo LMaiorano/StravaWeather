@@ -109,7 +109,7 @@ class Controller:
         return scopes[selection]
 
     def ui_input_cust_score(self, indent=0):
-        score_params = ['Sun Score', 'Rain Score', 'Wind Score', 'Extreme']
+        score_params = ['Sun Score', 'Rain Score', 'Wind Score']
         score = {}
 
         try:
