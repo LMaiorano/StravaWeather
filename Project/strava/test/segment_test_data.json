@@ -1,0 +1,204 @@
+{
+  "segments": [
+    {
+      "id": 19130173,
+      "resource_state": 2,
+      "name": "Eindsprint Wassenaarseweg",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.0,
+      "start_latlng": [
+        52.0927,
+        4.320182
+      ],
+      "end_latlng": [
+        52.091258,
+        4.316147
+      ],
+      "elev_difference": 0.0,
+      "distance": 340.2,
+      "points": "kj}|HcxjYl@hCx@vCxDdO",
+      "starred": false
+    },
+    {
+      "id": 7781248,
+      "resource_state": 2,
+      "name": "Sprintje Wassenaarseweg",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.0,
+      "start_latlng": [
+        52.091135,
+        4.316242
+      ],
+      "end_latlng": [
+        52.092258,
+        4.319375
+      ],
+      "elev_difference": 0.0,
+      "distance": 248.5,
+      "points": "q`}|Ho_jY_FqR",
+      "starred": false
+    },
+    {
+      "id": 7843743,
+      "resource_state": 2,
+      "name": "Bezuidenhoutseweg (oost-west)",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": -1.1,
+      "start_latlng": [
+        52.083866,
+        4.326242
+      ],
+      "end_latlng": [
+        52.082211,
+        4.322282
+      ],
+      "elev_difference": 5.1,
+      "distance": 328.1,
+      "points": "cs{|H_~kYh@zAr@|B|ArEt@lBvAzF",
+      "starred": false
+    },
+    {
+      "id": 7767614,
+      "resource_state": 2,
+      "name": "Oostduinlaan",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.2,
+      "start_latlng": [
+        52.096255,
+        4.311755
+      ],
+      "end_latlng": [
+        52.091323,
+        4.315717
+      ],
+      "elev_difference": 3.7,
+      "distance": 619.1,
+      "points": "q`~|HmciYb@_@NEf@c@jAu@fAmAnA{@VMRQl@@ZOf@_@l@S`@_@tAyAtAkAz@c@`@W^k@l@_@rA}A",
+      "starred": false
+    },
+    {
+      "id": 8675284,
+      "resource_state": 2,
+      "name": "Col du Fietsflat",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": -3.4,
+      "start_latlng": [
+        52.080283,
+        4.323689
+      ],
+      "end_latlng": [
+        52.080039,
+        4.32428
+      ],
+      "elev_difference": 2,
+      "distance": 59.6,
+      "points": "w|z|H_nkYLk@RYJIBGEADB?a@",
+      "starred": false
+    },
+    {
+      "id": 8806342,
+      "resource_state": 2,
+      "name": "Col d'Herengracht",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 1.8,
+      "start_latlng": [
+        52.081856,
+        4.321381
+      ],
+      "end_latlng": [
+        52.080555,
+        4.318614
+      ],
+      "elev_difference": 5,
+      "distance": 239.2,
+      "points": "qf{|Hs_kYj@bBv@nB`@l@|BfH",
+      "starred": false
+    },
+    {
+      "id": 8767910,
+      "resource_state": 2,
+      "name": "Koningskadecross",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.3,
+      "start_latlng": [
+        52.086268,
+        4.315872
+      ],
+      "end_latlng": [
+        52.092207,
+        4.310911
+      ],
+      "elev_difference": 5.3,
+      "distance": 748,
+      "points": "cb||He}iYQNwA\\KHGHs@j@eAnAkAjAeAx@y@t@k@ZSPu@r@e@t@[TOBOJeA~@{@`AIFm@Ri@^y@v@}@j@a@^}@h@kAz@",
+      "starred": false
+    },
+    {
+      "id": 6983571,
+      "resource_state": 2,
+      "name": "Malie-sprintje",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 1.4,
+      "start_latlng": [
+        52.083842,
+        4.319229
+      ],
+      "end_latlng": [
+        52.085253,
+        4.322522
+      ],
+      "elev_difference": 4.5,
+      "distance": 275.7,
+      "points": "_s{|HcrjY_@oAaAoC_@iBm@mBq@oBYq@Ma@OW",
+      "starred": false
+    },
+    {
+      "id": 7032388,
+      "resource_state": 2,
+      "name": "The Otherside",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": -0.3,
+      "start_latlng": [
+        52.087003,
+        4.32062
+      ],
+      "end_latlng": [
+        52.085864,
+        4.317303
+      ],
+      "elev_difference": 2.8,
+      "distance": 260.2,
+      "points": "wf||H{zjYjA`F`ArEtA`F",
+      "starred": false
+    },
+    {
+      "id": 17246493,
+      "resource_state": 2,
+      "name": "Langs Hofvijver",
+      "climb_category": 0.0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.1,
+      "start_latlng": [
+        52.080666,
+        4.311377
+      ],
+      "end_latlng": [
+        52.082349,
+        4.315477
+      ],
+      "elev_difference": 2.3,
+      "distance": 345.3,
+      "points": "c_{|HaaiY]gAYqAYaB_@sCIYUa@u@o@KQ{BeH",
+      "starred": false
+    }
+  ]
+}
