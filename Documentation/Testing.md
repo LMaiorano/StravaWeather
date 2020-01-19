@@ -10,14 +10,16 @@ A lot of tests are for small functions, so validation for those tests was done u
 
 By using Continuous Integration on GitLab, tests were always done when a commit was pushed. By using Test Driven Development, the tests were written alongside with the code, which improves the accuracy of the tests.
 
-The analysis results can be validated using a list of weather types and their expected outcomes:
-*  Cyclists will less likely ride on the road in the rain, and will therefore look for routes in the forest or rural areas.
-*  On days with high wind, coastal areas will have less activity than other regions.
-*  On days with extreme weather, the overall activity will be much less.
+The analysis results can be validated using a set of weather scores and their results relative to the baseline: (where the baseline is the average activity of a segment based on all-time data)
+* LOW weather scores should in general have a negative percentage of the baseline.
+* MEDIUM weather scores should result in approximately a zero percentage.
+* HIGH weather scores should overall be a positive percentage.
+
+These expectations were verified, as seen in the demonstration below:
+
+![](./Results/score_validation_sm.gif)
+
 
 **Hypothesis Testing**
 
 The output of the data analysis pipeline is visualised through a series of heat maps. The user can specify the weather types that need to be taken into account. To validate the results and test the hypothesis specified in the Development Plan, visual inspection is needed so multiple heat maps can be compared with each other. In a next project this could be done automatically, but that was out of the scope of this project.
-
-*stuk over hypothesis test results!*
-![](./Ideal_vs_NoWind_sm.gif)
