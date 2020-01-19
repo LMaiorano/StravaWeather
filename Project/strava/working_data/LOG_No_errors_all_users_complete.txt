@@ -1,0 +1,197 @@
+Mon, 30 Dec 2019 18:37:19 INFO     Starting multi-user building of leaderboards, using 3 API accounts
+Mon, 30 Dec 2019 18:37:19 INFO     ---- Switch to API User api_1. Resuming from page 1 ---
+Mon, 30 Dec 2019 18:43:46 INFO     Request limit reached on page 1 of 15. (User api_1, segment 7366989)
+Mon, 30 Dec 2019 18:43:46 INFO     Request-limited. 84 of 1089 segments complete. (User api_1, segment 7366989)
+Mon, 30 Dec 2019 18:43:46 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 18:50:48 WARNING  Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x72c679d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/v3/segments/3094685/leaderboard?date_range=this_year&page=7per_page=200
+Mon, 30 Dec 2019 18:51:36 INFO     Request limit reached on page 16 of 16. (User api_2, segment 16110266)
+Mon, 30 Dec 2019 18:51:36 INFO     Request-limited. 67 of 1088 segments complete. (User api_2, segment 16110266)
+Mon, 30 Dec 2019 18:51:36 INFO     ---- Switch to API User api_3. Resuming from page 1 ---
+Mon, 30 Dec 2019 18:59:00 INFO     Request limit reached on page 4 of 5. (User api_3, segment 8150165)
+Mon, 30 Dec 2019 18:59:00 INFO     Request-limited. 56 of 1088 segments complete. (User api_3, segment 8150165)
+Mon, 30 Dec 2019 18:59:00 INFO     ---- Switch to API User api_1. Resuming from page 1 ---
+Mon, 30 Dec 2019 19:06:28 INFO     Request limit reached on page 10 of 11. (User api_1, segment 3371438)
+Mon, 30 Dec 2019 19:06:28 INFO     Request-limited. 211 of 1089 segments complete. (User api_1, segment 3371438)
+Mon, 30 Dec 2019 19:06:28 INFO     ---- Switch to API User api_2. Resuming from page 16 ---
+Mon, 30 Dec 2019 19:13:03 INFO     Request limit reached on page 3 of 20. (User api_2, segment 3070561)
+Mon, 30 Dec 2019 19:13:03 INFO     Request-limited. 155 of 1088 segments complete. (User api_2, segment 3070561)
+Mon, 30 Dec 2019 19:13:03 INFO     ---- Switch to API User api_3. Resuming from page 4 ---
+Mon, 30 Dec 2019 19:21:35 INFO     Request limit reached on page 33 of 36. (User api_3, segment 3443710)
+Mon, 30 Dec 2019 19:21:35 INFO     Request-limited. 104 of 1088 segments complete. (User api_3, segment 3443710)
+Mon, 30 Dec 2019 19:21:35 INFO     ---- Switch to API User api_1. Resuming from page 10 ---
+Mon, 30 Dec 2019 19:27:57 INFO     Request limit reached on page 10 of 25. (User api_1, segment 719832)
+Mon, 30 Dec 2019 19:27:57 INFO     Request-limited. 320 of 1089 segments complete. (User api_1, segment 719832)
+Mon, 30 Dec 2019 19:27:57 INFO     ---- Switch to API User api_2. Resuming from page 3 ---
+Mon, 30 Dec 2019 19:36:28 INFO     Request limit reached on page 10 of 30. (User api_2, segment 1374131)
+Mon, 30 Dec 2019 19:36:28 INFO     Request-limited. 214 of 1088 segments complete. (User api_2, segment 1374131)
+Mon, 30 Dec 2019 19:36:28 INFO     ---- Switch to API User api_3. Resuming from page 33 ---
+Mon, 30 Dec 2019 19:42:54 INFO     Request limit reached on page 15 of 20. (User api_3, segment 15631184)
+Mon, 30 Dec 2019 19:42:54 INFO     Request-limited. 143 of 1088 segments complete. (User api_3, segment 15631184)
+Mon, 30 Dec 2019 19:42:54 INFO     ---- Switch to API User api_1. Resuming from page 10 ---
+Mon, 30 Dec 2019 19:51:26 INFO     Request limit reached on page 1 of 5. (User api_1, segment 3464477)
+Mon, 30 Dec 2019 19:51:26 INFO     Request-limited. 430 of 1089 segments complete. (User api_1, segment 3464477)
+Mon, 30 Dec 2019 19:51:26 INFO     ---- Switch to API User api_2. Resuming from page 10 ---
+Mon, 30 Dec 2019 19:57:54 INFO     Request limit reached on page 39 of 40. (User api_2, segment 4989498)
+Mon, 30 Dec 2019 19:57:54 INFO     Request-limited. 237 of 1088 segments complete. (User api_2, segment 4989498)
+Mon, 30 Dec 2019 19:57:54 INFO     ---- Switch to API User api_3. Resuming from page 15 ---
+Mon, 30 Dec 2019 20:06:23 INFO     Request limit reached on page 9 of 12. (User api_3, segment 16307199)
+Mon, 30 Dec 2019 20:06:23 INFO     Request-limited. 205 of 1088 segments complete. (User api_3, segment 16307199)
+Mon, 30 Dec 2019 20:06:23 INFO     ---- Switch to API User api_1. Resuming from page 1 ---
+Mon, 30 Dec 2019 20:12:58 INFO     Request limit reached on page 7 of 16. (User api_1, segment 17840842)
+Mon, 30 Dec 2019 20:12:58 INFO     Request-limited. 507 of 1089 segments complete. (User api_1, segment 17840842)
+Mon, 30 Dec 2019 20:12:58 INFO     ---- Switch to API User api_2. Resuming from page 39 ---
+Mon, 30 Dec 2019 20:23:04 INFO     Request limit reached when determining num pgs of segment (User api_2, segment 11423823)
+Mon, 30 Dec 2019 20:23:04 INFO     Request-limited. 320 of 1088 segments complete. (User api_2, segment 11423823)
+Mon, 30 Dec 2019 20:23:04 INFO     ---- Switch to API User api_3. Resuming from page 9 ---
+Mon, 30 Dec 2019 20:36:20 INFO     Request limit reached on page 21 of 25. (User api_3, segment 12485241)
+Mon, 30 Dec 2019 20:36:20 INFO     Request-limited. 276 of 1088 segments complete. (User api_3, segment 12485241)
+Mon, 30 Dec 2019 20:36:20 INFO     ---- Switch to API User api_1. Resuming from page 7 ---
+Mon, 30 Dec 2019 20:42:52 INFO     Request limit reached on page 4 of 9. (User api_1, segment 8984597)
+Mon, 30 Dec 2019 20:42:52 INFO     Request-limited. 610 of 1089 segments complete. (User api_1, segment 8984597)
+Mon, 30 Dec 2019 20:42:52 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 20:51:49 INFO     Request limit reached on page 11 of 13. (User api_2, segment 5722944)
+Mon, 30 Dec 2019 20:51:49 INFO     Request-limited. 416 of 1088 segments complete. (User api_2, segment 5722944)
+Mon, 30 Dec 2019 20:51:49 INFO     ---- Switch to API User api_3. Resuming from page 21 ---
+Mon, 30 Dec 2019 20:58:14 INFO     Request limit reached on page 6 of 13. (User api_3, segment 16363601)
+Mon, 30 Dec 2019 20:58:14 INFO     Request-limited. 327 of 1088 segments complete. (User api_3, segment 16363601)
+Mon, 30 Dec 2019 20:58:14 INFO     ---- Switch to API User api_1. Resuming from page 4 ---
+Mon, 30 Dec 2019 21:06:27 INFO     Request limit reached on page 14 of 16. (User api_1, segment 6704615)
+Mon, 30 Dec 2019 21:06:27 INFO     Request-limited. 697 of 1089 segments complete. (User api_1, segment 6704615)
+Mon, 30 Dec 2019 21:06:27 INFO     ---- Switch to API User api_2. Resuming from page 11 ---
+Mon, 30 Dec 2019 21:13:13 INFO     Request limit reached on page 1 of 19. (User api_2, segment 5077079)
+Mon, 30 Dec 2019 21:13:13 INFO     Request-limited. 456 of 1088 segments complete. (User api_2, segment 5077079)
+Mon, 30 Dec 2019 21:13:13 INFO     ---- Switch to API User api_3. Resuming from page 6 ---
+Mon, 30 Dec 2019 21:22:29 INFO     Request limit reached on page 26 of 37. (User api_3, segment 1499950)
+Mon, 30 Dec 2019 21:22:29 INFO     Request-limited. 375 of 1088 segments complete. (User api_3, segment 1499950)
+Mon, 30 Dec 2019 21:22:29 INFO     ---- Switch to API User api_1. Resuming from page 14 ---
+Mon, 30 Dec 2019 21:29:00 INFO     Request limit reached on page 4 of 15. (User api_1, segment 10744511)
+Mon, 30 Dec 2019 21:29:00 INFO     Request-limited. 754 of 1089 segments complete. (User api_1, segment 10744511)
+Mon, 30 Dec 2019 21:29:00 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 21:36:30 INFO     Request limit reached on page 7 of 25. (User api_2, segment 12735347)
+Mon, 30 Dec 2019 21:36:30 INFO     Request-limited. 523 of 1088 segments complete. (User api_2, segment 12735347)
+Mon, 30 Dec 2019 21:36:30 INFO     ---- Switch to API User api_3. Resuming from page 26 ---
+Mon, 30 Dec 2019 21:42:53 INFO     Request limit reached on page 1 of 25. (User api_3, segment 11788383)
+Mon, 30 Dec 2019 21:42:53 INFO     Request-limited. 404 of 1088 segments complete. (User api_3, segment 11788383)
+Mon, 30 Dec 2019 21:42:53 INFO     ---- Switch to API User api_1. Resuming from page 4 ---
+Mon, 30 Dec 2019 21:51:25 INFO     Request limit reached when determining num pgs of segment (User api_1, segment 5288689)
+Mon, 30 Dec 2019 21:51:25 INFO     Request-limited. 843 of 1089 segments complete. (User api_1, segment 5288689)
+Mon, 30 Dec 2019 21:51:25 INFO     ---- Switch to API User api_2. Resuming from page 7 ---
+Mon, 30 Dec 2019 21:57:52 INFO     Request limit reached on page 1 of 1. (User api_2, segment 17283824)
+Mon, 30 Dec 2019 21:57:52 INFO     Request-limited. 599 of 1088 segments complete. (User api_2, segment 17283824)
+Mon, 30 Dec 2019 21:57:52 INFO     ---- Switch to API User api_3. Resuming from page 1 ---
+Mon, 30 Dec 2019 22:06:24 INFO     Request limit reached on page 62 of 68. (User api_3, segment 5218009)
+Mon, 30 Dec 2019 22:06:24 INFO     Request-limited. 456 of 1088 segments complete. (User api_3, segment 5218009)
+Mon, 30 Dec 2019 22:06:24 INFO     ---- Switch to API User api_1. Resuming from page 1 ---
+Mon, 30 Dec 2019 22:12:50 INFO     Request limit reached on page 3 of 15. (User api_1, segment 7567440)
+Mon, 30 Dec 2019 22:12:50 INFO     Request-limited. 895 of 1089 segments complete. (User api_1, segment 7567440)
+Mon, 30 Dec 2019 22:12:50 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 22:21:28 INFO     Request limit reached on page 26 of 30. (User api_2, segment 9194753)
+Mon, 30 Dec 2019 22:21:28 INFO     Request-limited. 644 of 1088 segments complete. (User api_2, segment 9194753)
+Mon, 30 Dec 2019 22:21:28 INFO     ---- Switch to API User api_3. Resuming from page 62 ---
+Mon, 30 Dec 2019 22:27:56 INFO     Request limit reached on page 25 of 33. (User api_3, segment 3785565)
+Mon, 30 Dec 2019 22:27:56 INFO     Request-limited. 476 of 1088 segments complete. (User api_3, segment 3785565)
+Mon, 30 Dec 2019 22:27:56 INFO     ---- Switch to API User api_1. Resuming from page 3 ---
+Mon, 30 Dec 2019 22:36:25 INFO     Request limit reached on page 11 of 11. (User api_1, segment 18405074)
+Mon, 30 Dec 2019 22:36:25 INFO     Request-limited. 1029 of 1089 segments complete. (User api_1, segment 18405074)
+Mon, 30 Dec 2019 22:36:25 INFO     ---- Switch to API User api_2. Resuming from page 26 ---
+Mon, 30 Dec 2019 22:43:09 INFO     Request limit reached on page 1 of 26. (User api_2, segment 12994018)
+Mon, 30 Dec 2019 22:43:09 INFO     Request-limited. 672 of 1088 segments complete. (User api_2, segment 12994018)
+Mon, 30 Dec 2019 22:43:09 INFO     ---- Switch to API User api_3. Resuming from page 25 ---
+Mon, 30 Dec 2019 22:51:51 INFO     Request limit reached on page 13 of 16. (User api_3, segment 7767673)
+Mon, 30 Dec 2019 22:51:51 INFO     Request-limited. 512 of 1088 segments complete. (User api_3, segment 7767673)
+Mon, 30 Dec 2019 22:51:52 INFO     ---- Switch to API User api_1. Resuming from page 11 ---
+Mon, 30 Dec 2019 22:57:58 INFO     ******************api_1 completed all segments ************************
+Mon, 30 Dec 2019 22:58:00 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 23:06:18 INFO     Request limit reached on page 14 of 29. (User api_2, segment 6373545)
+Mon, 30 Dec 2019 23:06:18 INFO     Request-limited. 736 of 1088 segments complete. (User api_2, segment 6373545)
+Mon, 30 Dec 2019 23:06:18 INFO     ---- Switch to API User api_3. Resuming from page 13 ---
+Mon, 30 Dec 2019 23:12:37 INFO     Request limit reached on page 21 of 22. (User api_3, segment 6830567)
+Mon, 30 Dec 2019 23:12:37 INFO     Request-limited. 549 of 1088 segments complete. (User api_3, segment 6830567)
+Mon, 30 Dec 2019 23:12:37 INFO     ---- Switch to API User api_2. Resuming from page 14 ---
+Mon, 30 Dec 2019 23:12:38 INFO     Request limit reached when determining num pgs of segment (User api_2, segment 6373545)
+Mon, 30 Dec 2019 23:12:38 INFO     Request-limited. 736 of 1088 segments complete. (User api_2, segment 6373545)
+Mon, 30 Dec 2019 23:12:38 INFO     ---- Switch to API User api_3. Resuming from page 21 ---
+Mon, 30 Dec 2019 23:12:39 INFO     Request limit reached when determining num pgs of segment (User api_3, segment 6830567)
+Mon, 30 Dec 2019 23:12:39 INFO     Request-limited. 549 of 1088 segments complete. (User api_3, segment 6830567)
+Mon, 30 Dec 2019 23:12:39 INFO     Sleeping for 3 minutes until API reset
+Mon, 30 Dec 2019 23:15:39 INFO     ---- Switch to API User api_2. Resuming from page 14 ---
+Mon, 30 Dec 2019 23:22:20 INFO     Request limit reached on page 1 of 3. (User api_2, segment 7289718)
+Mon, 30 Dec 2019 23:22:20 INFO     Request-limited. 791 of 1088 segments complete. (User api_2, segment 7289718)
+Mon, 30 Dec 2019 23:22:20 INFO     ---- Switch to API User api_3. Resuming from page 21 ---
+Mon, 30 Dec 2019 23:36:33 INFO     Request limit reached on page 8 of 9. (User api_3, segment 20150620)
+Mon, 30 Dec 2019 23:36:33 INFO     Request-limited. 605 of 1088 segments complete. (User api_3, segment 20150620)
+Mon, 30 Dec 2019 23:36:33 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 23:43:14 INFO     Request limit reached on page 1 of 23. (User api_2, segment 9578952)
+Mon, 30 Dec 2019 23:43:14 INFO     Request-limited. 845 of 1088 segments complete. (User api_2, segment 9578952)
+Mon, 30 Dec 2019 23:43:14 INFO     ---- Switch to API User api_3. Resuming from page 8 ---
+Mon, 30 Dec 2019 23:43:15 INFO     Request limit reached when determining num pgs of segment (User api_3, segment 20150620)
+Mon, 30 Dec 2019 23:43:15 INFO     Request-limited. 605 of 1088 segments complete. (User api_3, segment 20150620)
+Mon, 30 Dec 2019 23:43:15 INFO     Sleeping for 2 minutes until API reset
+Mon, 30 Dec 2019 23:45:15 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Mon, 30 Dec 2019 23:52:02 INFO     Request limit reached on page 1 of 3. (User api_2, segment 16340447)
+Mon, 30 Dec 2019 23:52:02 INFO     Request-limited. 896 of 1088 segments complete. (User api_2, segment 16340447)
+Mon, 30 Dec 2019 23:52:02 INFO     ---- Switch to API User api_3. Resuming from page 8 ---
+Mon, 30 Dec 2019 23:58:29 INFO     Request limit reached on page 14 of 39. (User api_3, segment 4303691)
+Mon, 30 Dec 2019 23:58:29 INFO     Request-limited. 643 of 1088 segments complete. (User api_3, segment 4303691)
+Mon, 30 Dec 2019 23:58:29 INFO     Sleeping for 2 minutes until API reset
+Tue, 31 Dec 2019 00:00:29 INFO     ---- Switch to API User api_2. Resuming from page 1 ---
+Tue, 31 Dec 2019 00:06:49 INFO     Request limit reached on page 23 of 31. (User api_2, segment 21428356)
+Tue, 31 Dec 2019 00:06:49 INFO     Request-limited. 929 of 1088 segments complete. (User api_2, segment 21428356)
+Tue, 31 Dec 2019 00:06:50 INFO     ---- Switch to API User api_3. Resuming from page 14 ---
+Tue, 31 Dec 2019 00:13:12 INFO     Request limit reached on page 65 of 78. (User api_3, segment 16904991)
+Tue, 31 Dec 2019 00:13:12 INFO     Request-limited. 687 of 1088 segments complete. (User api_3, segment 16904991)
+Tue, 31 Dec 2019 00:13:12 INFO     Sleeping for 2 minutes until API reset
+Tue, 31 Dec 2019 00:15:12 INFO     ---- Switch to API User api_2. Resuming from page 23 ---
+Tue, 31 Dec 2019 00:21:33 INFO     Request limit reached on page 4 of 17. (User api_2, segment 5678609)
+Tue, 31 Dec 2019 00:21:33 INFO     Request-limited. 974 of 1088 segments complete. (User api_2, segment 5678609)
+Tue, 31 Dec 2019 00:21:33 INFO     ---- Switch to API User api_3. Resuming from page 65 ---
+Tue, 31 Dec 2019 00:28:05 INFO     Request limit reached on page 11 of 14. (User api_3, segment 12199833)
+Tue, 31 Dec 2019 00:28:05 INFO     Request-limited. 708 of 1088 segments complete. (User api_3, segment 12199833)
+Tue, 31 Dec 2019 00:28:05 INFO     Sleeping for 2 minutes until API reset
+Tue, 31 Dec 2019 00:30:05 INFO     ---- Switch to API User api_2. Resuming from page 4 ---
+Tue, 31 Dec 2019 00:36:24 INFO     Request limit reached on page 7 of 11. (User api_2, segment 16304752)
+Tue, 31 Dec 2019 00:36:24 INFO     Request-limited. 1013 of 1088 segments complete. (User api_2, segment 16304752)
+Tue, 31 Dec 2019 00:36:24 INFO     ---- Switch to API User api_3. Resuming from page 11 ---
+Tue, 31 Dec 2019 00:42:42 INFO     Request limit reached on page 5 of 6. (User api_3, segment 13128237)
+Tue, 31 Dec 2019 00:42:42 INFO     Request-limited. 769 of 1088 segments complete. (User api_3, segment 13128237)
+Tue, 31 Dec 2019 00:42:42 INFO     Sleeping for 3 minutes until API reset
+Tue, 31 Dec 2019 00:45:42 INFO     ---- Switch to API User api_2. Resuming from page 7 ---
+Tue, 31 Dec 2019 00:52:04 INFO     Request limit reached on page 16 of 29. (User api_2, segment 13515653)
+Tue, 31 Dec 2019 00:52:04 INFO     Request-limited. 1053 of 1088 segments complete. (User api_2, segment 13515653)
+Tue, 31 Dec 2019 00:52:04 INFO     ---- Switch to API User api_3. Resuming from page 5 ---
+Tue, 31 Dec 2019 00:58:28 INFO     Request limit reached on page 5 of 9. (User api_3, segment 3510897)
+Tue, 31 Dec 2019 00:58:28 INFO     Request-limited. 824 of 1088 segments complete. (User api_3, segment 3510897)
+Tue, 31 Dec 2019 00:58:28 INFO     Sleeping for 2 minutes until API reset
+Tue, 31 Dec 2019 01:00:28 INFO     ---- Switch to API User api_2. Resuming from page 16 ---
+Tue, 31 Dec 2019 01:04:54 INFO     ******************api_2 completed all segments ************************
+Tue, 31 Dec 2019 01:04:58 INFO     ---- Switch to API User api_3. Resuming from page 5 ---
+Tue, 31 Dec 2019 01:11:21 INFO     Request limit reached on page 48 of 62. (User api_3, segment 15017138)
+Tue, 31 Dec 2019 01:11:21 INFO     Request-limited. 852 of 1088 segments complete. (User api_3, segment 15017138)
+Tue, 31 Dec 2019 01:11:21 INFO     Sleeping for 4 minutes until API reset
+Tue, 31 Dec 2019 01:15:21 INFO     ---- Switch to API User api_3. Resuming from page 48 ---
+Tue, 31 Dec 2019 01:21:43 INFO     Request limit reached on page 17 of 19. (User api_3, segment 19080724)
+Tue, 31 Dec 2019 01:21:43 INFO     Request-limited. 891 of 1088 segments complete. (User api_3, segment 19080724)
+Tue, 31 Dec 2019 01:21:43 INFO     Sleeping for 9 minutes until API reset
+Tue, 31 Dec 2019 01:30:43 INFO     ---- Switch to API User api_3. Resuming from page 17 ---
+Tue, 31 Dec 2019 01:37:04 INFO     Request limit reached on page 5 of 7. (User api_3, segment 7743467)
+Tue, 31 Dec 2019 01:37:04 INFO     Request-limited. 924 of 1088 segments complete. (User api_3, segment 7743467)
+Tue, 31 Dec 2019 01:37:04 INFO     Sleeping for 8 minutes until API reset
+Tue, 31 Dec 2019 01:45:04 INFO     ---- Switch to API User api_3. Resuming from page 5 ---
+Tue, 31 Dec 2019 01:51:36 INFO     Request limit reached on page 29 of 29. (User api_3, segment 12550424)
+Tue, 31 Dec 2019 01:51:36 INFO     Request-limited. 970 of 1088 segments complete. (User api_3, segment 12550424)
+Tue, 31 Dec 2019 01:51:36 INFO     Sleeping for 9 minutes until API reset
+Tue, 31 Dec 2019 02:00:36 INFO     ---- Switch to API User api_3. Resuming from page 29 ---
+Tue, 31 Dec 2019 02:07:03 INFO     Request limit reached on page 27 of 36. (User api_3, segment 9717471)
+Tue, 31 Dec 2019 02:07:03 INFO     Request-limited. 1009 of 1088 segments complete. (User api_3, segment 9717471)
+Tue, 31 Dec 2019 02:07:03 INFO     Sleeping for 8 minutes until API reset
+Tue, 31 Dec 2019 02:15:03 INFO     ---- Switch to API User api_3. Resuming from page 27 ---
+Tue, 31 Dec 2019 02:21:30 INFO     Request limit reached on page 9 of 18. (User api_3, segment 7936631)
+Tue, 31 Dec 2019 02:21:30 INFO     Request-limited. 1042 of 1088 segments complete. (User api_3, segment 7936631)
+Tue, 31 Dec 2019 02:21:30 INFO     Sleeping for 9 minutes until API reset
+Tue, 31 Dec 2019 02:30:30 INFO     ---- Switch to API User api_3. Resuming from page 9 ---
+Tue, 31 Dec 2019 02:36:50 INFO     Request limit reached on page 1 of 11. (User api_3, segment 10490100)
+Tue, 31 Dec 2019 02:36:50 INFO     Request-limited. 1074 of 1088 segments complete. (User api_3, segment 10490100)
+Tue, 31 Dec 2019 02:36:50 INFO     Sleeping for 9 minutes until API reset
+Tue, 31 Dec 2019 02:45:50 INFO     ---- Switch to API User api_3. Resuming from page 1 ---
+Tue, 31 Dec 2019 02:48:22 INFO     ******************api_3 completed all segments ************************
+Tue, 31 Dec 2019 02:48:27 INFO     All users complete. Exiting..

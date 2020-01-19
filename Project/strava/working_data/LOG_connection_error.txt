@@ -1,0 +1,81 @@
+Mon, 30 Dec 2019 03:08:42 INFO     Starting multi-user building of leaderboards, using 3 API accounts
+Mon, 30 Dec 2019 03:08:42 INFO     ----Switch to API User api_1. Resuming from page 1---
+Mon, 30 Dec 2019 03:14:52 INFO     Request limit reached on page 1 of 15. (User api_1, segment 7366989)
+Mon, 30 Dec 2019 03:14:52 INFO     Request-limited. 84 of 1089 segments complete. (User api_1, segment 7366989)
+Mon, 30 Dec 2019 03:14:52 INFO     ----Switch to API User api_2. Resuming from page 1---
+Mon, 30 Dec 2019 03:21:28 INFO     Request limit reached on page 12 of 15. (User api_2, segment 16651185)
+Mon, 30 Dec 2019 03:21:28 INFO     Request-limited. 57 of 1088 segments complete. (User api_2, segment 16651185)
+Mon, 30 Dec 2019 03:21:28 INFO     ----Switch to API User api_3. Resuming from page 1---
+Mon, 30 Dec 2019 03:27:53 INFO     Request limit reached on page 4 of 5. (User api_3, segment 8150165)
+Mon, 30 Dec 2019 03:27:53 INFO     Request-limited. 56 of 1088 segments complete. (User api_3, segment 8150165)
+Mon, 30 Dec 2019 03:27:53 INFO     ----Switch to API User api_1. Resuming from page 1---
+Mon, 30 Dec 2019 03:36:10 INFO     Request limit reached on page 7 of 22. (User api_1, segment 2730527)
+Mon, 30 Dec 2019 03:36:10 INFO     Request-limited. 221 of 1089 segments complete. (User api_1, segment 2730527)
+Mon, 30 Dec 2019 03:36:10 INFO     ----Switch to API User api_2. Resuming from page 12---
+Mon, 30 Dec 2019 03:42:44 INFO     Request limit reached on page 2 of 6. (User api_2, segment 15554084)
+Mon, 30 Dec 2019 03:42:44 INFO     Request-limited. 131 of 1088 segments complete. (User api_2, segment 15554084)
+Mon, 30 Dec 2019 03:42:44 INFO     ----Switch to API User api_3. Resuming from page 4---
+Mon, 30 Dec 2019 03:51:21 INFO     Request limit reached on page 34 of 35. (User api_3, segment 15279175)
+Mon, 30 Dec 2019 03:51:21 INFO     Request-limited. 105 of 1088 segments complete. (User api_3, segment 15279175)
+Mon, 30 Dec 2019 03:51:21 INFO     ----Switch to API User api_1. Resuming from page 7---
+Mon, 30 Dec 2019 03:57:39 INFO     Request limit reached on page 6 of 7. (User api_1, segment 9707302)
+Mon, 30 Dec 2019 03:57:39 INFO     Request-limited. 330 of 1089 segments complete. (User api_1, segment 9707302)
+Mon, 30 Dec 2019 03:57:39 INFO     ----Switch to API User api_2. Resuming from page 2---
+Mon, 30 Dec 2019 03:59:15 CRITICAL Unhandled exception
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 57, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.7/socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x736228d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.strava.com', port=443): Max retries exceeded with url: /api/v3/segments/5016659/leaderboard?date_range=this_year&page=1per_page=200 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x736228d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "strava_module.py", line 522, in <module>
+    s.multi_user_build_all_leaderboards()
+  File "strava_module.py", line 318, in multi_user_build_all_leaderboards
+    seg_leaderboard = self.single_segment_leaderboard(segment, user)
+  File "strava_module.py", line 432, in single_segment_leaderboard
+    leaderboard_json = self.__api_objs[user].request_leaderboard(segment_id, page=1)
+  File "../../Project/strava/strava_api.py", line 151, in request_leaderboard
+    response = requests.get(base_url, headers=header)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.strava.com', port=443): Max retries exceeded with url: /api/v3/segments/5016659/leaderboard?date_range=this_year&page=1per_page=200 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x736228d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))

@@ -1,15 +1,30 @@
+# General Requirements
 pytest
 pylint
 coverage
 pytest-cov
 setuptools
-
-
-# Added for data management
-pandas
 numpy
 
-# Added for APIs
-requests
-beautifulsoup4
+# Packages actively used in project files
+swifter
+tqdm
+urllib3
+Pydap
+pandas
+pyshp
 
+PyYAML
+
+# web requirements
+requests
+selenium
+
+# Added for testing weather score
+matplotlib
+
+# added for baseline calculation
+pyarrow
+
+
+art
