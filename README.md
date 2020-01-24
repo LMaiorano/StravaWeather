@@ -34,7 +34,7 @@ Team member names:
 
 1) Download the latest [Release][releases]
 2) Install Python3 requirements from "[./requirements.txt][reqs]" 
-3) Run "./Project/[main.py][main]" in Python3 console
+3) Run "./[RUN_ME.py][run]" in terminal or python console
 
 
 
@@ -43,6 +43,7 @@ Team member names:
 See [Team Contract][contract] for more information
 
 [releases]: https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/-/releases
+[run]: https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/RUN_ME.py
 [main]: https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Project/main.py
 [reqs]: https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/requirements.txt
 [contract]: https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/Team%20Contract.md
