@@ -1,4 +1,10 @@
+
+
+
 # **DS Project StravaWeather**
+<img align="right" src="/Documentation/StravaWeatherLogo.png" alt="StravaWeather"
+	title="StravaWeather Project" width="230" height="230" />
+
 <!--
 
 ## Coverage requirements to contribute
@@ -20,7 +26,7 @@ Team member names:
 *   Jasper Boogers
 
 
-# Report and Final Results
+## Report and Final Results
 
 **Documentation:**
 
@@ -38,7 +44,7 @@ Team member names:
 
 
 
-# Team contract
+## Team contract
 
 See [Team Contract][contract] for more information
 
