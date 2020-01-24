@@ -46,6 +46,9 @@ suggestion-mode=yes
 # active Python interpreter and may run arbitrary code.
 unsafe-load-any-extension=no
 
+[PASS_FAIL]
+# Set Pass threshold
+fail-under=7
 
 [MESSAGES CONTROL]
 
