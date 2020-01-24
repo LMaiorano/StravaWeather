@@ -37,7 +37,7 @@ pylint:
   script:
     - pip install pylint
     # By disabling import errors it's not needed to install all the requirements
-    - pylint --rcfile .pylintrc Project/
+    - pylint --rcfile .pylintrc Project/ --fail-under 7
     
     
 radon:
