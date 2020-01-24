@@ -24,7 +24,7 @@ Team member names:
 
 **Documentation:**
 
-- [Developmet Plan](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/Development%20Plan.md)
+- [Development Plan](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/Development%20Plan.md)
 - [Design Plan](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/Design%20plan/Design%20plan.md)
 - [Testing](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/Testing.md0)
 - [Results](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds7/ewi3615tu-ds7/blob/master/Documentation/results.md)
