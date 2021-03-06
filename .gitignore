@@ -144,6 +144,9 @@ chromedriver.exe
 
 # Use following command periodically to add too large files to this list:
 # find . -size +100M | cat >> .gitignore
+# To remove old large files:
+# java -jar bfg.jar --strip-blobs-bigger-than 100M
+#  git reflog expire --expire=now --all && git gc --prune=now --aggressive
 *.parquet
 Addresses_in_the_City_of_Los_Angeles.csv
 *.shp./.git/objects/pack/pack-c34e3b5c74094bf1d26049b429bae7cdf1822338.pack
