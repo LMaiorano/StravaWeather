@@ -155,3 +155,4 @@ Addresses_in_the_City_of_Los_Angeles.csv
 # ./Project/strava/final_generated_data/ZH_5km_full_leaderboard_overall.parquet
 # ./Project/strava/reference_data/shape_files/roads.shp
 # ./Project/visualization/test/reference_data/Addresses_in_the_City_of_Los_Angeles.csv
+credentials.yml
