@@ -140,3 +140,7 @@ dmypy.json
 .pyre/
 
 chromedriver.exe
+
+*.parquet
+Addresses_in_the_City_of_Los_Angeles.csv
+*.shp
