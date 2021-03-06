@@ -141,6 +141,15 @@ dmypy.json
 
 chromedriver.exe
 
+
+# Use following command periodically to add too large files to this list:
+# find . -size +100M | cat >> .gitignore
 *.parquet
 Addresses_in_the_City_of_Los_Angeles.csv
-*.shp
+*.shp./.git/objects/pack/pack-c34e3b5c74094bf1d26049b429bae7cdf1822338.pack
+./.git/objects/pack/pack-f06b068772be88dcc40304e144af0a9a9dcee1a2.pack
+./Project/analysis/Baseline/data/data_filtered.parquet
+./Project/analysis/reference_data/activities/Project_strava_final_generated_data_ZH_5km_full_leaderboard_overall.parquet
+./Project/strava/final_generated_data/ZH_5km_full_leaderboard_overall.parquet
+./Project/strava/reference_data/shape_files/roads.shp
+./Project/visualization/test/reference_data/Addresses_in_the_City_of_Los_Angeles.csv
