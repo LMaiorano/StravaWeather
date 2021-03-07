@@ -17,8 +17,8 @@ class StravaApiTestCase(unittest.TestCase):
     def setUp(self):
         # test creds
         ID = '41178'
-        client_secret = '***REMOVED***'
-        auth_token = "***REMOVED***"         # needs to be filled in manually to enter correct loop
+        client_secret = '50353d9a5a020188c7050e9a47b029fe423b43bc'
+        auth_token = "30e2cd617b45634ba7a46e93f12b168cfa53356e"         # needs to be filled in manually to enter correct loop
 
         test_creds = {'client_ID': ID, 'client_secret': client_secret, 'auth_token': auth_token}
 

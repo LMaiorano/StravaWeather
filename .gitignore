@@ -156,4 +156,7 @@ Addresses_in_the_City_of_Los_Angeles.csv
 # ./Project/strava/reference_data/shape_files/roads.shp
 # ./Project/visualization/test/reference_data/Addresses_in_the_City_of_Los_Angeles.csv
 credentials.yml
+<<<<<<< HEAD
 passwords.txt
+=======
+>>>>>>> ae557fa8fbed8f2b752de53281c1e7a276d86f5e
